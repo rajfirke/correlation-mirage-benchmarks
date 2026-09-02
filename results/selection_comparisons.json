@@ -1,0 +1,98 @@
+[
+  {
+    "K": 3,
+    "comparison": "Copula vs Correlation",
+    "mae_all_improvement": -0.4837354487432508,
+    "mae_tail_improvement": -0.7120747587594973,
+    "copula_better_all": false,
+    "copula_better_tail": false
+  },
+  {
+    "K": 3,
+    "comparison": "Copula vs PCA",
+    "mae_all_improvement": -0.1445690480560673,
+    "mae_tail_improvement": -0.11201892724038398,
+    "copula_better_all": false,
+    "copula_better_tail": false
+  },
+  {
+    "K": 3,
+    "comparison": "Copula vs Random",
+    "mae_all_improvement": 0.1981806125646779,
+    "mae_tail_improvement": 0.7437123605315374,
+    "copula_better_all": true,
+    "copula_better_tail": true
+  },
+  {
+    "K": 4,
+    "comparison": "Copula vs Correlation",
+    "mae_all_improvement": -1.0452425543657995,
+    "mae_tail_improvement": -1.2077775073683323,
+    "copula_better_all": false,
+    "copula_better_tail": false
+  },
+  {
+    "K": 4,
+    "comparison": "Copula vs PCA",
+    "mae_all_improvement": -0.7216325889841304,
+    "mae_tail_improvement": -0.5823425519854055,
+    "copula_better_all": false,
+    "copula_better_tail": false
+  },
+  {
+    "K": 4,
+    "comparison": "Copula vs Random",
+    "mae_all_improvement": -0.6947581146139878,
+    "mae_tail_improvement": -0.33700706076392706,
+    "copula_better_all": false,
+    "copula_better_tail": false
+  },
+  {
+    "K": 5,
+    "comparison": "Copula vs Correlation",
+    "mae_all_improvement": -0.8443227189235518,
+    "mae_tail_improvement": -1.032719118490391,
+    "copula_better_all": false,
+    "copula_better_tail": false
+  },
+  {
+    "K": 5,
+    "comparison": "Copula vs PCA",
+    "mae_all_improvement": -0.8443227189235509,
+    "mae_tail_improvement": -1.0327191184903928,
+    "copula_better_all": false,
+    "copula_better_tail": false
+  },
+  {
+    "K": 5,
+    "comparison": "Copula vs Random",
+    "mae_all_improvement": -1.2159219796089422,
+    "mae_tail_improvement": -0.8265280800361907,
+    "copula_better_all": false,
+    "copula_better_tail": false
+  },
+  {
+    "K": 6,
+    "comparison": "Copula vs Correlation",
+    "mae_all_improvement": 1.19247926495719,
+    "mae_tail_improvement": -0.5176705762634022,
+    "copula_better_all": true,
+    "copula_better_tail": false
+  },
+  {
+    "K": 6,
+    "comparison": "Copula vs PCA",
+    "mae_all_improvement": -0.970362825968639,
+    "mae_tail_improvement": -1.894371645804057,
+    "copula_better_all": false,
+    "copula_better_tail": false
+  },
+  {
+    "K": 6,
+    "comparison": "Copula vs Random",
+    "mae_all_improvement": 0.31727583527704617,
+    "mae_tail_improvement": -0.23835863424814452,
+    "copula_better_all": true,
+    "copula_better_tail": false
+  }
+]

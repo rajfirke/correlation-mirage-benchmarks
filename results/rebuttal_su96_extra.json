@@ -1,0 +1,283 @@
+{
+  "experiment_a_student_t_intersection": [
+    {
+      "pair": "BBH x GPQA",
+      "spearman_full": 0.8610795270887768,
+      "observed_intersection": {
+        "0.8": {
+          "rho": 0.4394342887406469,
+          "n_eff": 775
+        },
+        "0.9": {
+          "rho": 0.10168588105633443,
+          "n_eff": 304
+        },
+        "0.95": {
+          "rho": 0.10634343010140826,
+          "n_eff": 86
+        }
+      },
+      "student_t_df5_intersection": {}
+    },
+    {
+      "pair": "BBH x MUSR",
+      "spearman_full": 0.7325089592227535,
+      "observed_intersection": {
+        "0.8": {
+          "rho": 0.12646284538570574,
+          "n_eff": 528
+        },
+        "0.9": {
+          "rho": 0.2324776852677075,
+          "n_eff": 219
+        },
+        "0.95": {
+          "rho": 0.30447155100431755,
+          "n_eff": 58
+        }
+      },
+      "student_t_df5_intersection": {}
+    },
+    {
+      "pair": "MATH Lvl 5 x MMLU-PRO",
+      "spearman_full": 0.842095001103335,
+      "observed_intersection": {
+        "0.8": {
+          "rho": 0.12043370590500911,
+          "n_eff": 681
+        },
+        "0.9": {
+          "rho": 0.051156500483477155,
+          "n_eff": 243
+        },
+        "0.95": {
+          "rho": 0.1376198538584052,
+          "n_eff": 56
+        }
+      },
+      "student_t_df5_intersection": {}
+    }
+  ],
+  "experiment_b_deduped_intersection": [
+    {
+      "pair": "IFEval x BBH",
+      "spearman_full": 0.6561487249108363,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": 0.12767528541161574,
+        "n_eff": 80,
+        "drop_pct": 80.5
+      },
+      "intersection_90": {
+        "rho": 0.19487558511948758,
+        "n_eff": 29
+      }
+    },
+    {
+      "pair": "IFEval x MATH Lvl 5",
+      "spearman_full": 0.7241930992856837,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": 0.04796024960692601,
+        "n_eff": 81,
+        "drop_pct": 93.4
+      },
+      "intersection_90": {
+        "rho": 0.17438237689873295,
+        "n_eff": 30
+      }
+    },
+    {
+      "pair": "IFEval x GPQA",
+      "spearman_full": 0.5774646895573214,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": 0.10654070185615855,
+        "n_eff": 75,
+        "drop_pct": 81.6
+      },
+      "intersection_90": {
+        "rho": 0.29951112833723276,
+        "n_eff": 27
+      }
+    },
+    {
+      "pair": "IFEval x MUSR",
+      "spearman_full": 0.3767849790167425,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": 0.0016648524048103032,
+        "n_eff": 52,
+        "drop_pct": 99.6
+      },
+      "intersection_90": {
+        "rho": 0.4145796632961667,
+        "n_eff": 11
+      }
+    },
+    {
+      "pair": "IFEval x MMLU-PRO",
+      "spearman_full": 0.7035797992268216,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": -0.03281693424660065,
+        "n_eff": 72,
+        "drop_pct": 104.7
+      },
+      "intersection_90": {
+        "rho": 0.3085135620660896,
+        "n_eff": 28
+      }
+    },
+    {
+      "pair": "BBH x MATH Lvl 5",
+      "spearman_full": 0.7607171193758109,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": -0.0376144831124051,
+        "n_eff": 95,
+        "drop_pct": 104.9
+      },
+      "intersection_90": {
+        "rho": 0.2800550783304028,
+        "n_eff": 32
+      }
+    },
+    {
+      "pair": "BBH x GPQA",
+      "spearman_full": 0.8747495596979646,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": 0.5248097103771232,
+        "n_eff": 128,
+        "drop_pct": 40.0
+      },
+      "intersection_90": {
+        "rho": 0.19733818329023062,
+        "n_eff": 53
+      }
+    },
+    {
+      "pair": "BBH x MUSR",
+      "spearman_full": 0.7301578487499355,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": 0.2669383051405523,
+        "n_eff": 90,
+        "drop_pct": 63.4
+      },
+      "intersection_90": {
+        "rho": 0.5655080213903744,
+        "n_eff": 33
+      }
+    },
+    {
+      "pair": "BBH x MMLU-PRO",
+      "spearman_full": 0.9395112518932599,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": 0.8319324273585222,
+        "n_eff": 134,
+        "drop_pct": 11.5
+      },
+      "intersection_90": {
+        "rho": 0.7169242567095369,
+        "n_eff": 61
+      }
+    },
+    {
+      "pair": "MATH Lvl 5 x GPQA",
+      "spearman_full": 0.7100907370907139,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": -0.22787713833744525,
+        "n_eff": 91,
+        "drop_pct": 132.1
+      },
+      "intersection_90": {
+        "rho": 0.38399267287701994,
+        "n_eff": 27
+      }
+    },
+    {
+      "pair": "MATH Lvl 5 x MUSR",
+      "spearman_full": 0.5018126895587429,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": 0.12793227446583266,
+        "n_eff": 77,
+        "drop_pct": 74.5
+      },
+      "intersection_90": {
+        "rho": 0.19849624060150375,
+        "n_eff": 20
+      }
+    },
+    {
+      "pair": "MATH Lvl 5 x MMLU-PRO",
+      "spearman_full": 0.835595400386463,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": 0.07091335264289078,
+        "n_eff": 107,
+        "drop_pct": 91.5
+      },
+      "intersection_90": {
+        "rho": 0.33872007304037377,
+        "n_eff": 36
+      }
+    },
+    {
+      "pair": "GPQA x MUSR",
+      "spearman_full": 0.6938652714474155,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": 0.45091050127498167,
+        "n_eff": 96,
+        "drop_pct": 35.0
+      },
+      "intersection_90": {
+        "rho": 0.028457925776571583,
+        "n_eff": 42
+      }
+    },
+    {
+      "pair": "GPQA x MMLU-PRO",
+      "spearman_full": 0.8725779921864902,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": 0.5093076246661832,
+        "n_eff": 126,
+        "drop_pct": 41.6
+      },
+      "intersection_90": {
+        "rho": 0.1360146548313398,
+        "n_eff": 58
+      }
+    },
+    {
+      "pair": "MUSR x MMLU-PRO",
+      "spearman_full": 0.6707572863212943,
+      "n_total": 779,
+      "intersection_80": {
+        "rho": 0.2748531249589257,
+        "n_eff": 93,
+        "drop_pct": 59.0
+      },
+      "intersection_90": {
+        "rho": 0.4273858951196299,
+        "n_eff": 37
+      }
+    }
+  ],
+  "experiment_c_noise_differential": {
+    "observed_retain": 0.7783874052450297,
+    "observed_collapse": 0.024543928268077303,
+    "observed_differential": 0.7538434769769524,
+    "noise_differential_mean": 0.7038395673388022,
+    "noise_differential_ci": [
+      0.6827310271270759,
+      0.7258700931223833
+    ]
+  }
+}

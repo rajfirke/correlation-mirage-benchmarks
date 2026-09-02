@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude / Cursor
+.claude/
+.cursor/
+
+# Large raw files (use data/ release files instead)
+*.parquet
+*.tgz
+*.tar.gz
+
+# Internal drafts
+SUBMISSION_CHECKLIST.md
+camera_ready_prompt_playbook.md
+reviews_and_responses_complete.md
+session_prompts.txt
+cursorchatprompts.md

@@ -1,0 +1,42 @@
+{
+  "tree1": [
+    {
+      "node_1": "BBH",
+      "node_2": "BBH",
+      "family": "Frank",
+      "lambda_U": 0.0,
+      "lambda_L": 0.0
+    },
+    {
+      "node_1": "BBH",
+      "node_2": "MMLU-PRO",
+      "family": "Frank",
+      "lambda_U": 0.0,
+      "lambda_L": 0.0
+    },
+    {
+      "node_1": "MATH Lvl 5",
+      "node_2": "BBH",
+      "family": "BB1",
+      "lambda_U": 0.545789032645257,
+      "lambda_L": 0.008262273617662776
+    },
+    {
+      "node_1": "MMLU-PRO",
+      "node_2": "Var-1",
+      "family": "Student-t",
+      "lambda_U": 0.6646239854300552,
+      "lambda_L": 0.6646239854300552
+    },
+    {
+      "node_1": "MMLU-PRO",
+      "node_2": "Var-1",
+      "family": "Frank",
+      "lambda_U": 0.0,
+      "lambda_L": 0.0
+    }
+  ],
+  "loglik": 14683.13385388748,
+  "aic": -29326.26770777496,
+  "bic": -29198.04439203955
+}

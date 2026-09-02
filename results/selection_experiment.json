@@ -1,0 +1,260 @@
+[
+  {
+    "K": 3,
+    "method": "Correlation",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "HumanEval"
+    ],
+    "rmse_all": 6.912877102882161,
+    "mae_all": 4.640142778018147,
+    "rmse_tail": 7.57225097862503,
+    "mae_tail": 4.834593777654126,
+    "mae_top": 3.431989829146257,
+    "mae_bottom": 6.2981805065319,
+    "n_predictions": 210
+  },
+  {
+    "K": 3,
+    "method": "PCA",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "IFEval"
+    ],
+    "rmse_all": 7.312011512320497,
+    "mae_all": 4.97930917870533,
+    "rmse_tail": 8.39662516318508,
+    "mae_tail": 5.434649609173239,
+    "mae_top": 3.595138521619687,
+    "mae_bottom": 7.396794769230362,
+    "n_predictions": 210
+  },
+  {
+    "K": 3,
+    "method": "Copula",
+    "selected": [
+      "GPQA Main (full set)",
+      "GPQA Diamond",
+      "MMLU-Pro"
+    ],
+    "rmse_all": 7.254817144214772,
+    "mae_all": 5.123878226761398,
+    "rmse_tail": 8.062391485896143,
+    "mae_tail": 5.546668536413623,
+    "mae_top": 3.9903330747994894,
+    "mae_bottom": 7.17067075722837,
+    "n_predictions": 210
+  },
+  {
+    "K": 3,
+    "method": "Random",
+    "selected": "100 random samples",
+    "rmse_all": 7.986672288979298,
+    "mae_all": 5.3220588393260755,
+    "rmse_tail": 9.686273423083088,
+    "mae_tail": 6.290380896945161,
+    "mae_top": 4.229182736988439,
+    "mae_bottom": 8.422740883862925,
+    "n_predictions": 210
+  },
+  {
+    "K": 4,
+    "method": "Correlation",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "HumanEval",
+      "MATH-500"
+    ],
+    "rmse_all": 6.927989600689198,
+    "mae_all": 4.597886527987901,
+    "rmse_tail": 7.576014391259369,
+    "mae_tail": 4.798575767385085,
+    "mae_top": 3.4908391435241044,
+    "mae_bottom": 6.070968158168739,
+    "n_predictions": 168
+  },
+  {
+    "K": 4,
+    "method": "PCA",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "IFEval",
+      "MATH-500"
+    ],
+    "rmse_all": 7.157844236941765,
+    "mae_all": 4.92149649336957,
+    "rmse_tail": 8.247085533982451,
+    "mae_tail": 5.424010722768012,
+    "mae_top": 4.218748312522611,
+    "mae_bottom": 6.629273133013412,
+    "n_predictions": 168
+  },
+  {
+    "K": 4,
+    "method": "Copula",
+    "selected": [
+      "GPQA Main (full set)",
+      "GPQA Diamond",
+      "MMLU-Pro",
+      "IFEval"
+    ],
+    "rmse_all": 7.8280554005433425,
+    "mae_all": 5.643129082353701,
+    "rmse_tail": 8.659874833044098,
+    "mae_tail": 6.006353274753417,
+    "mae_top": 4.284878561035114,
+    "mae_bottom": 7.871284214614911,
+    "n_predictions": 168
+  },
+  {
+    "K": 4,
+    "method": "Random",
+    "selected": "100 random samples",
+    "rmse_all": 7.407739093322727,
+    "mae_all": 4.948370967739713,
+    "rmse_tail": 8.812169475619424,
+    "mae_tail": 5.66934621398949,
+    "mae_top": 3.7409630087017987,
+    "mae_bottom": 7.664835029213599,
+    "n_predictions": 168
+  },
+  {
+    "K": 5,
+    "method": "Correlation",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "HumanEval",
+      "MATH-500",
+      "IFEval"
+    ],
+    "rmse_all": 7.5553873923610535,
+    "mae_all": 5.246890287393627,
+    "rmse_tail": 8.082314578187061,
+    "mae_tail": 5.332935390141712,
+    "mae_top": 3.9672026030850422,
+    "mae_bottom": 6.698668177198382,
+    "n_predictions": 126
+  },
+  {
+    "K": 5,
+    "method": "PCA",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "IFEval",
+      "MATH-500",
+      "HumanEval"
+    ],
+    "rmse_all": 7.5553873923610535,
+    "mae_all": 5.246890287393628,
+    "rmse_tail": 8.08231457818706,
+    "mae_tail": 5.33293539014171,
+    "mae_top": 3.967202603085048,
+    "mae_bottom": 6.698668177198373,
+    "n_predictions": 126
+  },
+  {
+    "K": 5,
+    "method": "Copula",
+    "selected": [
+      "GPQA Main (full set)",
+      "GPQA Diamond",
+      "MMLU-Pro",
+      "IFEval",
+      "HumanEval"
+    ],
+    "rmse_all": 8.431336268426973,
+    "mae_all": 6.0912130063171785,
+    "rmse_tail": 9.014227126809725,
+    "mae_tail": 6.365654508632103,
+    "mae_top": 4.557128144933537,
+    "mae_bottom": 8.375128246074958,
+    "n_predictions": 126
+  },
+  {
+    "K": 5,
+    "method": "Random",
+    "selected": "100 random samples",
+    "rmse_all": 7.248915420185682,
+    "mae_all": 4.875291026708236,
+    "rmse_tail": 8.574090306333629,
+    "mae_tail": 5.539126428595912,
+    "mae_top": 3.6592071456898454,
+    "mae_bottom": 7.501632850369685,
+    "n_predictions": 126
+  },
+  {
+    "K": 6,
+    "method": "Correlation",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "HumanEval",
+      "MATH-500",
+      "IFEval",
+      "MMLU-Pro"
+    ],
+    "rmse_all": 7.623158041996888,
+    "mae_all": 5.834452051072647,
+    "rmse_tail": 6.849195683939586,
+    "mae_tail": 5.325867218689841,
+    "mae_top": 5.005194902430326,
+    "mae_bottom": 5.646539534949356,
+    "n_predictions": 84
+  },
+  {
+    "K": 6,
+    "method": "PCA",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "IFEval",
+      "MATH-500",
+      "HumanEval",
+      "LiveCodeBench"
+    ],
+    "rmse_all": 5.592712397839578,
+    "mae_all": 3.671609960146818,
+    "rmse_tail": 6.741404330174059,
+    "mae_tail": 3.9491661491491863,
+    "mae_top": 2.102495704080895,
+    "mae_bottom": 5.795836594217477,
+    "n_predictions": 84
+  },
+  {
+    "K": 6,
+    "method": "Copula",
+    "selected": [
+      "GPQA Main (full set)",
+      "GPQA Diamond",
+      "MMLU-Pro",
+      "IFEval",
+      "HumanEval",
+      "LiveCodeBench"
+    ],
+    "rmse_all": 7.226419826183719,
+    "mae_all": 4.641972786115457,
+    "rmse_tail": 9.101616790945618,
+    "mae_tail": 5.843537794953243,
+    "mae_top": 3.3543843779927585,
+    "mae_bottom": 8.747550114740474,
+    "n_predictions": 84
+  },
+  {
+    "K": 6,
+    "method": "Random",
+    "selected": "100 random samples",
+    "rmse_all": 7.2327584538507725,
+    "mae_all": 4.959248621392503,
+    "rmse_tail": 8.525106091772486,
+    "mae_tail": 5.605179160705099,
+    "mae_top": 3.7221957347586594,
+    "mae_bottom": 7.588837079062893,
+    "n_predictions": 84
+  }
+]

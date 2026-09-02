@@ -1,0 +1,1172 @@
+[
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "BBH",
+    "copula_family": "Gumbel",
+    "is_frank": false,
+    "spearman_full": 0.6236674492964616,
+    "cond_spearman_20pct": -0.24994115023742303,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.4669779853235491,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 2.334889926617746,
+        "joint_exceedances": 420,
+        "marginal_exceedances": 899,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.311318656882366,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 2.075457712549106,
+        "joint_exceedances": 210,
+        "marginal_exceedances": 674,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.2535023348899267,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 2.5350233488992675,
+        "joint_exceedances": 114,
+        "marginal_exceedances": 449,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.2223704692016898,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 4.447409384033792,
+        "joint_exceedances": 50,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.15565932844118285,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 15.565932844118272,
+        "joint_exceedances": 7,
+        "marginal_exceedances": 45,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.24731182795698925,
+    "emp_lambda_10pct": 0.25333333333333335,
+    "emp_lambda_20pct": 0.4743040685224839,
+    "emp_trend": "stable",
+    "emp_slope": -0.006021505376344105,
+    "emp_5pct_ci": [
+      0.17176339285714287,
+      0.2767857142857143
+    ],
+    "emp_10pct_ci": [
+      0.21603563474387527,
+      0.29175946547884185
+    ],
+    "chi_90_mean": 0.25323549032688464,
+    "chi_90_ci": [
+      0.2100845007782967,
+      0.30242383811429846
+    ],
+    "chi_95_mean": 0.22454969979986641,
+    "chi_95_ci": [
+      0.16666666666666652,
+      0.28463420057816297
+    ]
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MATH Lvl 5",
+    "copula_family": "BB1",
+    "is_frank": false,
+    "spearman_full": 0.6834842731083844,
+    "cond_spearman_20pct": -0.1738558410230096,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.42806315321325333,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 2.140315766066267,
+        "joint_exceedances": 385,
+        "marginal_exceedances": 899,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.35875769031205984,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 2.391717935413732,
+        "joint_exceedances": 242,
+        "marginal_exceedances": 674,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.3491216366466534,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 3.491216366466535,
+        "joint_exceedances": 157,
+        "marginal_exceedances": 449,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.27129197242606157,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 5.425839448521226,
+        "joint_exceedances": 61,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.20013342228152084,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 20.013342228152066,
+        "joint_exceedances": 9,
+        "marginal_exceedances": 45,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.27956989247311825,
+    "emp_lambda_10pct": 0.3511111111111111,
+    "emp_lambda_20pct": 0.4411134903640257,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.07154121863799284,
+    "emp_5pct_ci": [
+      0.21428571428571427,
+      0.3237723214285713
+    ],
+    "emp_10pct_ci": [
+      0.3128619153674833,
+      0.3953786191536748
+    ],
+    "chi_90_mean": 0.34921947965310207,
+    "chi_90_ci": [
+      0.29575272403824776,
+      0.402490549255059
+    ],
+    "chi_95_mean": 0.2715232377140313,
+    "chi_95_ci": [
+      0.21114076050700448,
+      0.3314431843451186
+    ]
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "GPQA",
+    "copula_family": "Gumbel",
+    "is_frank": false,
+    "spearman_full": 0.49158306982033956,
+    "cond_spearman_20pct": -0.3701502514087225,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.4347342672893041,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 2.173671336446521,
+        "joint_exceedances": 391,
+        "marginal_exceedances": 899,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.33207323400785704,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 2.21382156005238,
+        "joint_exceedances": 224,
+        "marginal_exceedances": 674,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.17344896597731824,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 1.7344896597731827,
+        "joint_exceedances": 78,
+        "marginal_exceedances": 449,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.09784300644874352,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 1.9568601289748688,
+        "joint_exceedances": 22,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.044474093840337965,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 4.447409384033793,
+        "joint_exceedances": 2,
+        "marginal_exceedances": 45,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.0967741935483871,
+    "emp_lambda_10pct": 0.17333333333333334,
+    "emp_lambda_20pct": 0.4486081370449679,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.07655913978494625,
+    "emp_5pct_ci": [
+      0.0625,
+      0.12946428571428573
+    ],
+    "emp_10pct_ci": [
+      0.1403118040089087,
+      0.2105233853006681
+    ],
+    "chi_90_mean": 0.17340004447409388,
+    "chi_90_ci": [
+      0.13564598621303095,
+      0.21464309539693127
+    ],
+    "chi_95_mean": 0.09915943962641752,
+    "chi_95_ci": [
+      0.06226373137647315,
+      0.14231710028908148
+    ]
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MUSR",
+    "copula_family": "Frank",
+    "is_frank": true,
+    "spearman_full": 0.37362511233990675,
+    "cond_spearman_20pct": -0.5464750988642993,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.28796975761618865,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 1.4398487880809436,
+        "joint_exceedances": 259,
+        "marginal_exceedances": 899,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.16010673782521678,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 1.0673782521681117,
+        "joint_exceedances": 108,
+        "marginal_exceedances": 674,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.08450077829664224,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 0.8450077829664225,
+        "joint_exceedances": 38,
+        "marginal_exceedances": 449,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.06226373137647315,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 1.245274627529462,
+        "joint_exceedances": 14,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.0,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 0.0,
+        "joint_exceedances": 0,
+        "marginal_exceedances": 45,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.05913978494623656,
+    "emp_lambda_10pct": 0.08444444444444445,
+    "emp_lambda_20pct": 0.2955032119914347,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.025304659498207885,
+    "emp_5pct_ci": [
+      0.026785714285714284,
+      0.09375
+    ],
+    "emp_10pct_ci": [
+      0.05896436525612472,
+      0.1091314031180401
+    ],
+    "chi_90_mean": 0.08484767622859685,
+    "chi_90_ci": [
+      0.05664887702913054,
+      0.11340893929286193
+    ],
+    "chi_95_mean": 0.062370469201689954,
+    "chi_95_ci": [
+      0.031131865688236574,
+      0.09784300644874352
+    ]
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MMLU-PRO",
+    "copula_family": "Gumbel",
+    "is_frank": false,
+    "spearman_full": 0.6510976852630398,
+    "cond_spearman_20pct": -0.3182562532292009,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.4313987102512787,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 2.156993551256394,
+        "joint_exceedances": 388,
+        "marginal_exceedances": 899,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.28908160996219695,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 1.9272107330813126,
+        "joint_exceedances": 195,
+        "marginal_exceedances": 674,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.20458083166555488,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 2.0458083166555494,
+        "joint_exceedances": 92,
+        "marginal_exceedances": 449,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.17789637536135186,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 3.557927507227034,
+        "joint_exceedances": 40,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.06671114076050694,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 6.671114076050688,
+        "joint_exceedances": 3,
+        "marginal_exceedances": 45,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.1881720430107527,
+    "emp_lambda_10pct": 0.20666666666666667,
+    "emp_lambda_20pct": 0.45717344753747324,
+    "emp_trend": "stable",
+    "emp_slope": -0.018494623655913978,
+    "emp_5pct_ci": [
+      0.12712053571428572,
+      0.21875
+    ],
+    "emp_10pct_ci": [
+      0.16926503340757237,
+      0.24498886414253898
+    ],
+    "chi_90_mean": 0.20489215032243724,
+    "chi_90_ci": [
+      0.16455414720925066,
+      0.24577496108516791
+    ],
+    "chi_95_mean": 0.1791149655325771,
+    "chi_95_ci": [
+      0.12897487213698008,
+      0.2312652879697574
+    ]
+  },
+  {
+    "benchmark_1": "BBH",
+    "benchmark_2": "MATH Lvl 5",
+    "copula_family": "BB1",
+    "is_frank": false,
+    "spearman_full": 0.7924474323580891,
+    "cond_spearman_20pct": 0.17960294735007185,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.6226373137647322,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 3.1131865688236617,
+        "joint_exceedances": 560,
+        "marginal_exceedances": 899,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.643391890890223,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 4.289279272601486,
+        "joint_exceedances": 434,
+        "marginal_exceedances": 674,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.5270180120080055,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 5.270180120080056,
+        "joint_exceedances": 237,
+        "marginal_exceedances": 450,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.29797642873026436,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 5.959528574605282,
+        "joint_exceedances": 67,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.17789637536135186,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 17.78963753613517,
+        "joint_exceedances": 8,
+        "marginal_exceedances": 44,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.2956989247311828,
+    "emp_lambda_10pct": 0.5266666666666666,
+    "emp_lambda_20pct": 0.6231263383297645,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.2309677419354838,
+    "emp_5pct_ci": [
+      0.24553571428571427,
+      0.36160714285714285
+    ],
+    "emp_10pct_ci": [
+      0.47099109131403116,
+      0.5612472160356348
+    ],
+    "chi_90_mean": 0.5263998221036247,
+    "chi_90_ci": [
+      0.4625305759395153,
+      0.5971203024238383
+    ],
+    "chi_95_mean": 0.2984033800311316,
+    "chi_95_ci": [
+      0.22893039804313967,
+      0.37358238825883894
+    ]
+  },
+  {
+    "benchmark_1": "BBH",
+    "benchmark_2": "GPQA",
+    "copula_family": "Frank",
+    "is_frank": true,
+    "spearman_full": 0.8610795270887768,
+    "cond_spearman_20pct": 0.4336747270070109,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.8616855681565491,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 4.3084278407827465,
+        "joint_exceedances": 775,
+        "marginal_exceedances": 899,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.7501297161070343,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 5.000864774046894,
+        "joint_exceedances": 506,
+        "marginal_exceedances": 674,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.6760062263731379,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 6.76006226373138,
+        "joint_exceedances": 304,
+        "marginal_exceedances": 450,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.38247720702690646,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 7.649544140538122,
+        "joint_exceedances": 86,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.3335557038025347,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 33.35557038025344,
+        "joint_exceedances": 15,
+        "marginal_exceedances": 44,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.27956989247311825,
+    "emp_lambda_10pct": 0.6755555555555556,
+    "emp_lambda_20pct": 0.8736616702355461,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.3959856630824373,
+    "emp_5pct_ci": [
+      0.3146205357142857,
+      0.44642857142857145
+    ],
+    "emp_10pct_ci": [
+      0.6391982182628062,
+      0.7083518930957683
+    ],
+    "chi_90_mean": 0.6768467867467202,
+    "chi_90_ci": [
+      0.6026239715365801,
+      0.7560595952857462
+    ],
+    "chi_95_mean": 0.38347342672893003,
+    "chi_95_ci": [
+      0.30898376695574803,
+      0.45808316655548104
+    ]
+  },
+  {
+    "benchmark_1": "BBH",
+    "benchmark_2": "MUSR",
+    "copula_family": "Frank",
+    "is_frank": true,
+    "spearman_full": 0.7325089592227535,
+    "cond_spearman_20pct": 0.02536476092959231,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.5870580386924618,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 2.9352901934623095,
+        "joint_exceedances": 528,
+        "marginal_exceedances": 899,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.576680750129716,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 3.844538334198106,
+        "joint_exceedances": 389,
+        "marginal_exceedances": 674,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.4869913275517012,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 4.869913275517013,
+        "joint_exceedances": 219,
+        "marginal_exceedances": 450,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.25794974427396017,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 5.158994885479199,
+        "joint_exceedances": 58,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.22237046920168985,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 22.237046920168964,
+        "joint_exceedances": 10,
+        "marginal_exceedances": 44,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.16129032258064516,
+    "emp_lambda_10pct": 0.4888888888888889,
+    "emp_lambda_20pct": 0.5867237687366167,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.3275985663082437,
+    "emp_5pct_ci": [
+      0.18962053571428572,
+      0.3125
+    ],
+    "emp_10pct_ci": [
+      0.44320712694877507,
+      0.524554565701559
+    ],
+    "chi_90_mean": 0.48828552368245504,
+    "chi_90_ci": [
+      0.425783855903936,
+      0.5492550589281744
+    ],
+    "chi_95_mean": 0.25787858572381567,
+    "chi_95_ci": [
+      0.19568601289748705,
+      0.3246608850344671
+    ]
+  },
+  {
+    "benchmark_1": "BBH",
+    "benchmark_2": "MMLU-PRO",
+    "copula_family": "Student-t",
+    "is_frank": false,
+    "spearman_full": 0.9490221482760475,
+    "cond_spearman_20pct": 0.778469058435856,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.8249944407382701,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 4.124972203691351,
+        "joint_exceedances": 742,
+        "marginal_exceedances": 899,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.9161663331109626,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 6.107775554073084,
+        "joint_exceedances": 618,
+        "marginal_exceedances": 674,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.8094285078941519,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 8.094285078941521,
+        "joint_exceedances": 364,
+        "marginal_exceedances": 450,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.5870580386924611,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 11.741160773849211,
+        "joint_exceedances": 132,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.6226373137647314,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 62.26373137647309,
+        "joint_exceedances": 28,
+        "marginal_exceedances": 44,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.6129032258064516,
+    "emp_lambda_10pct": 0.8111111111111111,
+    "emp_lambda_20pct": 0.8222698072805139,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.1982078853046595,
+    "emp_5pct_ci": [
+      0.5244419642857143,
+      0.6452008928571428
+    ],
+    "emp_10pct_ci": [
+      0.7839643652561247,
+      0.8374164810690423
+    ],
+    "chi_90_mean": 0.8088814765399156,
+    "chi_90_ci": [
+      0.7304313987102514,
+      0.892873026462086
+    ],
+    "chi_95_mean": 0.5837669557482761,
+    "chi_95_ci": [
+      0.48688014231709986,
+      0.6849010451412046
+    ]
+  },
+  {
+    "benchmark_1": "MATH Lvl 5",
+    "benchmark_2": "GPQA",
+    "copula_family": "Frank",
+    "is_frank": true,
+    "spearman_full": 0.7067243149900345,
+    "cond_spearman_20pct": 0.003055248074732064,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.592617300422504,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 2.963086502112521,
+        "joint_exceedances": 533,
+        "marginal_exceedances": 898,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.5440664146468015,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 3.627109430978676,
+        "joint_exceedances": 367,
+        "marginal_exceedances": 673,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.4336224149432956,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 4.336224149432957,
+        "joint_exceedances": 195,
+        "marginal_exceedances": 450,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.16455414720925046,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 3.2910829441850065,
+        "joint_exceedances": 37,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.08894818768067593,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 8.894818768067585,
+        "joint_exceedances": 4,
+        "marginal_exceedances": 44,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.15053763440860216,
+    "emp_lambda_10pct": 0.43333333333333335,
+    "emp_lambda_20pct": 0.5985010706638115,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.2827956989247312,
+    "emp_5pct_ci": [
+      0.11607142857142858,
+      0.20982142857142858
+    ],
+    "emp_10pct_ci": [
+      0.386358574610245,
+      0.48106904231625836
+    ],
+    "chi_90_mean": 0.43440071158550153,
+    "chi_90_ci": [
+      0.3724149432955305,
+      0.4970535912830777
+    ],
+    "chi_95_mean": 0.16671558816989088,
+    "chi_95_ci": [
+      0.1156326439848787,
+      0.2223704692016898
+    ]
+  },
+  {
+    "benchmark_1": "MATH Lvl 5",
+    "benchmark_2": "MUSR",
+    "copula_family": "Student-t",
+    "is_frank": false,
+    "spearman_full": 0.5317074028125915,
+    "cond_spearman_20pct": -0.21247490195460222,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.5414720925061153,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 2.707360462530577,
+        "joint_exceedances": 487,
+        "marginal_exceedances": 898,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.48032021347565035,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 3.202134756504335,
+        "joint_exceedances": 324,
+        "marginal_exceedances": 673,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.3313319991105182,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 3.3133199911051827,
+        "joint_exceedances": 149,
+        "marginal_exceedances": 450,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.14231710028908148,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 2.846342005781627,
+        "joint_exceedances": 32,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.22237046920168985,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 22.237046920168964,
+        "joint_exceedances": 10,
+        "marginal_exceedances": 44,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.12903225806451613,
+    "emp_lambda_10pct": 0.33111111111111113,
+    "emp_lambda_20pct": 0.5417558886509636,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.202078853046595,
+    "emp_5pct_ci": [
+      0.10714285714285714,
+      0.20089285714285715
+    ],
+    "emp_10pct_ci": [
+      0.2861358574610245,
+      0.37533407572383065
+    ],
+    "chi_90_mean": 0.33169668668000896,
+    "chi_90_ci": [
+      0.2812430509228375,
+      0.38470091171892384
+    ],
+    "chi_95_mean": 0.14443406715588156,
+    "chi_95_ci": [
+      0.09784300644874352,
+      0.1980209028241047
+    ]
+  },
+  {
+    "benchmark_1": "MATH Lvl 5",
+    "benchmark_2": "MMLU-PRO",
+    "copula_family": "Frank",
+    "is_frank": true,
+    "spearman_full": 0.842095001103335,
+    "cond_spearman_20pct": 0.22961130217278225,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.7571714476317547,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 3.7858572381587745,
+        "joint_exceedances": 681,
+        "marginal_exceedances": 898,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.662663998221036,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 4.41775998814024,
+        "joint_exceedances": 447,
+        "marginal_exceedances": 673,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.5403602401601069,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 5.40360240160107,
+        "joint_exceedances": 243,
+        "marginal_exceedances": 450,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.2490549255058926,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 4.981098510117848,
+        "joint_exceedances": 56,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.11118523460084492,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 11.118523460084482,
+        "joint_exceedances": 5,
+        "marginal_exceedances": 44,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.25806451612903225,
+    "emp_lambda_10pct": 0.54,
+    "emp_lambda_20pct": 0.7676659528907923,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.2819354838709678,
+    "emp_5pct_ci": [
+      0.20301339285714287,
+      0.30591517857142847
+    ],
+    "emp_10pct_ci": [
+      0.4922048997772829,
+      0.5935968819599109
+    ],
+    "chi_90_mean": 0.5402401601067379,
+    "chi_90_ci": [
+      0.47587280409161675,
+      0.6083500111185235
+    ],
+    "chi_95_mean": 0.24990882810762707,
+    "chi_95_ci": [
+      0.19123860351345323,
+      0.32021347565043334
+    ]
+  },
+  {
+    "benchmark_1": "GPQA",
+    "benchmark_2": "MUSR",
+    "copula_family": "BB1",
+    "is_frank": false,
+    "spearman_full": 0.715886068300148,
+    "cond_spearman_20pct": 0.24481617952611787,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.6015121191905716,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 3.0075605959528584,
+        "joint_exceedances": 541,
+        "marginal_exceedances": 902,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.6152249647913424,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 4.101499765275615,
+        "joint_exceedances": 415,
+        "marginal_exceedances": 674,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.647098065376918,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 6.470980653769182,
+        "joint_exceedances": 291,
+        "marginal_exceedances": 451,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.5158994885479203,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 10.317989770958398,
+        "joint_exceedances": 116,
+        "marginal_exceedances": 229,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.24460751612185883,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 24.46075161218586,
+        "joint_exceedances": 11,
+        "marginal_exceedances": 45,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.46774193548387094,
+    "emp_lambda_10pct": 0.6488888888888888,
+    "emp_lambda_20pct": 0.5963597430406852,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.1811469534050179,
+    "emp_5pct_ci": [
+      0.45089285714285715,
+      0.5603794642857142
+    ],
+    "emp_10pct_ci": [
+      0.5968819599109132,
+      0.6770601336302895
+    ],
+    "chi_90_mean": 0.6474093840338006,
+    "chi_90_ci": [
+      0.5769957749610853,
+      0.7182566155214588
+    ],
+    "chi_95_mean": 0.5183277740716028,
+    "chi_95_ci": [
+      0.4290638203246605,
+      0.6205247943073154
+    ]
+  },
+  {
+    "benchmark_1": "GPQA",
+    "benchmark_2": "MMLU-PRO",
+    "copula_family": "Frank",
+    "is_frank": true,
+    "spearman_full": 0.8568314424389959,
+    "cond_spearman_20pct": 0.5513727482297461,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.7660662663998223,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 3.8303313319991124,
+        "joint_exceedances": 689,
+        "marginal_exceedances": 902,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.7679193536431694,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 5.119462357621129,
+        "joint_exceedances": 518,
+        "marginal_exceedances": 674,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.7449410718256617,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 7.449410718256619,
+        "joint_exceedances": 335,
+        "marginal_exceedances": 451,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.5381365354680894,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 10.762730709361778,
+        "joint_exceedances": 121,
+        "marginal_exceedances": 229,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.3780297976428727,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 37.80297976428724,
+        "joint_exceedances": 17,
+        "marginal_exceedances": 45,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.4731182795698925,
+    "emp_lambda_10pct": 0.7466666666666667,
+    "emp_lambda_20pct": 0.7730192719486081,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.2735483870967742,
+    "emp_5pct_ci": [
+      0.47767857142857145,
+      0.5848214285714286
+    ],
+    "emp_10pct_ci": [
+      0.7159799554565701,
+      0.7817371937639198
+    ],
+    "chi_90_mean": 0.7446608850344676,
+    "chi_90_ci": [
+      0.671558816989104,
+      0.8273293306648878
+    ],
+    "chi_95_mean": 0.5372826328663549,
+    "chi_95_ci": [
+      0.43795863909272814,
+      0.6270847231487653
+    ]
+  },
+  {
+    "benchmark_1": "MUSR",
+    "benchmark_2": "MMLU-PRO",
+    "copula_family": "Frank",
+    "is_frank": true,
+    "spearman_full": 0.6902950941506903,
+    "cond_spearman_20pct": 0.09570342112701047,
+    "tail_concentration": [
+      {
+        "threshold": 0.8,
+        "chi_u": 0.5981765621525463,
+        "independence_baseline": 0.19999999999999996,
+        "ratio_to_independence": 2.990882810762732,
+        "joint_exceedances": 538,
+        "marginal_exceedances": 899,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.85,
+        "chi_u": 0.5974353272552071,
+        "independence_baseline": 0.15000000000000002,
+        "ratio_to_independence": 3.98290218170138,
+        "joint_exceedances": 403,
+        "marginal_exceedances": 674,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.9,
+        "chi_u": 0.535912830776073,
+        "independence_baseline": 0.09999999999999998,
+        "ratio_to_independence": 5.359128307760731,
+        "joint_exceedances": 241,
+        "marginal_exceedances": 449,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.95,
+        "chi_u": 0.2757393818100954,
+        "independence_baseline": 0.050000000000000044,
+        "ratio_to_independence": 5.514787636201903,
+        "joint_exceedances": 62,
+        "marginal_exceedances": 224,
+        "n_total": 4497
+      },
+      {
+        "threshold": 0.99,
+        "chi_u": 0.22237046920168985,
+        "independence_baseline": 0.010000000000000009,
+        "ratio_to_independence": 22.237046920168964,
+        "joint_exceedances": 10,
+        "marginal_exceedances": 44,
+        "n_total": 4497
+      }
+    ],
+    "emp_lambda_5pct": 0.20967741935483872,
+    "emp_lambda_10pct": 0.54,
+    "emp_lambda_20pct": 0.5985010706638115,
+    "emp_trend": "decreasing",
+    "emp_slope": -0.3303225806451613,
+    "emp_5pct_ci": [
+      0.21428571428571427,
+      0.32589285714285715
+    ],
+    "emp_10pct_ci": [
+      0.5011135857461024,
+      0.5812917594654788
+    ],
+    "chi_90_mean": 0.5366021792305983,
+    "chi_90_ci": [
+      0.47142539470758293,
+      0.6060151211919058
+    ],
+    "chi_95_mean": 0.27676228596842317,
+    "chi_95_ci": [
+      0.20669335112297071,
+      0.3536802312652876
+    ]
+  }
+]

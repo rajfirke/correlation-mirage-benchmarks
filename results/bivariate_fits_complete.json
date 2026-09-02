@@ -1,0 +1,568 @@
+[
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "HumanEval",
+    "n_obs": 42,
+    "family": "Frank",
+    "family_id": "BicopFamily.frank",
+    "parameters": [
+      [
+        7.309557186110962
+      ]
+    ],
+    "loglik": 17.365655498425706,
+    "aic": -32.73131099685141,
+    "bic": -30.993641378568043,
+    "kendall_tau": 0.5721449423659869,
+    "spearman_rho": 0.7629716041894637,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MMLU-Pro",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        3.6461307293350713
+      ]
+    ],
+    "loglik": 34.54694817296929,
+    "aic": -67.09389634593857,
+    "bic": -65.35622672765521,
+    "kendall_tau": 0.7136209725018088,
+    "spearman_rho": 0.8730448201132549,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7906235908898276,
+    "tail_asymmetry": 0.7906235908898276
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "IFEval",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        2.340388996789766
+      ]
+    ],
+    "loglik": 18.60296460062713,
+    "aic": -35.20592920125426,
+    "bic": -33.46825958297089,
+    "kendall_tau": 0.579255652969827,
+    "spearman_rho": 0.7340736034198361,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6553046127119537,
+    "tail_asymmetry": 0.6553046127119537
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MMLU",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        2.256591828519372
+      ]
+    ],
+    "loglik": 18.079041900929315,
+    "aic": -34.15808380185863,
+    "bic": -32.42041418357526,
+    "kendall_tau": 0.5534196819959633,
+    "spearman_rho": 0.723978637281636,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6404340283684784,
+    "tail_asymmetry": 0.6404340283684784
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "GPQA Main (full set)",
+    "n_obs": 42,
+    "family": "BB7",
+    "family_id": "BicopFamily.bb7",
+    "parameters": [
+      [
+        5.999999
+      ],
+      [
+        17.973919271598707
+      ]
+    ],
+    "loglik": 73.3296923228329,
+    "aic": -142.6593846456658,
+    "bic": -139.18404540909907,
+    "kendall_tau": 0.8895348837209303,
+    "spearman_rho": 0.9728930307941651,
+    "lambda_L": 0.9621700726104978,
+    "lambda_U": 0.8775379300786397,
+    "tail_asymmetry": 0.08463214253185813
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "LiveCodeBench",
+    "n_obs": 42,
+    "family": "Gaussian",
+    "family_id": "BicopFamily.gaussian",
+    "parameters": [
+      [
+        0.943836121924922
+      ]
+    ],
+    "loglik": 43.59878254500066,
+    "aic": -85.19756509000132,
+    "bic": -83.45989547171796,
+    "kendall_tau": 0.7832656755149485,
+    "spearman_rho": 0.9233013256636562,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MATH-500",
+    "n_obs": 42,
+    "family": "Clayton",
+    "family_id": "BicopFamily.clayton",
+    "parameters": [
+      [
+        2.22080691206982
+      ]
+    ],
+    "loglik": 18.884122107488572,
+    "aic": -35.768244214977145,
+    "bic": -34.030574596693775,
+    "kendall_tau": 0.534472847395387,
+    "spearman_rho": 0.7181891849644781,
+    "lambda_L": 0.7318973449104607,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7318973449104607
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "MMLU-Pro",
+    "n_obs": 42,
+    "family": "Clayton",
+    "family_id": "BicopFamily.clayton",
+    "parameters": [
+      [
+        2.067791428463529
+      ]
+    ],
+    "loglik": 16.99554196557918,
+    "aic": -31.991083931158357,
+    "bic": -30.253414312874988,
+    "kendall_tau": 0.49973668576589725,
+    "spearman_rho": 0.6979597679891938,
+    "lambda_L": 0.7151869072167348,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7151869072167348
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "IFEval",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        1.858414616633709
+      ]
+    ],
+    "loglik": 11.441999504747688,
+    "aic": -20.883999009495376,
+    "bic": -19.146329391212006,
+    "kendall_tau": 0.46964014051635106,
+    "spearman_rho": 0.6205220865670815,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5479480637883276,
+    "tail_asymmetry": 0.5479480637883276
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "MMLU",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        1.8967534390354426
+      ]
+    ],
+    "loglik": 12.034028797959738,
+    "aic": -22.068057595919477,
+    "bic": -20.330387977636107,
+    "kendall_tau": 0.4645549097548468,
+    "spearman_rho": 0.6490689367253725,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5588538468508022,
+    "tail_asymmetry": 0.5588538468508022
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "GPQA Main (full set)",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        2.4235616755684055
+      ]
+    ],
+    "loglik": 19.59982610239061,
+    "aic": -37.19965220478122,
+    "bic": -35.461982586497854,
+    "kendall_tau": 0.5839174720442996,
+    "spearman_rho": 0.7744113102922618,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6689028535763608,
+    "tail_asymmetry": 0.6689028535763608
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "LiveCodeBench",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        2.404092413891302
+      ]
+    ],
+    "loglik": 19.413907441200635,
+    "aic": -36.82781488240127,
+    "bic": -35.0901452641179,
+    "kendall_tau": 0.5941674029523286,
+    "spearman_rho": 0.7745421928676611,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6658162382549293,
+    "tail_asymmetry": 0.6658162382549293
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "MATH-500",
+    "n_obs": 42,
+    "family": "Joe",
+    "family_id": "BicopFamily.joe",
+    "parameters": [
+      [
+        2.358680992527852
+      ]
+    ],
+    "loglik": 11.908586027886402,
+    "aic": -21.817172055772804,
+    "bic": -20.079502437489435,
+    "kendall_tau": 0.41120381406436235,
+    "spearman_rho": 0.5513654988533325,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6583896083720575,
+    "tail_asymmetry": 0.6583896083720575
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "IFEval",
+    "n_obs": 42,
+    "family": "Clayton",
+    "family_id": "BicopFamily.clayton",
+    "parameters": [
+      [
+        1.5767554644947992
+      ]
+    ],
+    "loglik": 12.220018906142617,
+    "aic": -22.440037812285233,
+    "bic": -20.702368194001863,
+    "kendall_tau": 0.46324418934762457,
+    "spearman_rho": 0.6196806375224707,
+    "lambda_L": 0.6442918486135669,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6442918486135669
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "MMLU",
+    "n_obs": 42,
+    "family": "Gaussian",
+    "family_id": "BicopFamily.gaussian",
+    "parameters": [
+      [
+        0.7544100576564452
+      ]
+    ],
+    "loglik": 15.431083521059449,
+    "aic": -28.862167042118898,
+    "bic": -27.12449742383553,
+    "kendall_tau": 0.5213347800745626,
+    "spearman_rho": 0.6984596882698801,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "GPQA Main (full set)",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        3.0987020647596717
+      ]
+    ],
+    "loglik": 28.824581615526846,
+    "aic": -55.64916323105369,
+    "bic": -53.91149361277032,
+    "kendall_tau": 0.6507571347936559,
+    "spearman_rho": 0.8247021665790191,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7493173515682847,
+    "tail_asymmetry": 0.7493173515682847
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "LiveCodeBench",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        3.202168220811145
+      ]
+    ],
+    "loglik": 30.004984055923586,
+    "aic": -58.00996811184717,
+    "bic": -56.2722984935638,
+    "kendall_tau": 0.6980813423149856,
+    "spearman_rho": 0.8637303033953431,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7583243151528576,
+    "tail_asymmetry": 0.7583243151528576
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "MATH-500",
+    "n_obs": 42,
+    "family": "Joe",
+    "family_id": "BicopFamily.joe",
+    "parameters": [
+      [
+        2.8084422845177253
+      ]
+    ],
+    "loglik": 15.95686847175405,
+    "aic": -29.9137369435081,
+    "bic": -28.17606732522473,
+    "kendall_tau": 0.4879504431770789,
+    "spearman_rho": 0.6494021577592486,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7200661306272584,
+    "tail_asymmetry": 0.7200661306272584
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MMLU",
+    "n_obs": 42,
+    "family": "Clayton",
+    "family_id": "BicopFamily.clayton",
+    "parameters": [
+      [
+        2.1645296724992074
+      ]
+    ],
+    "loglik": 17.712261175343507,
+    "aic": -33.42452235068701,
+    "bic": -31.686852732403644,
+    "kendall_tau": 0.505559585254222,
+    "spearman_rho": 0.6818955821770462,
+    "lambda_L": 0.7259820944784332,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7259820944784332
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "GPQA Main (full set)",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        2.11915215775601
+      ]
+    ],
+    "loglik": 15.415182222279343,
+    "aic": -28.830364444558686,
+    "bic": -27.092694826275316,
+    "kendall_tau": 0.5233114450371273,
+    "spearman_rho": 0.6792024728561585,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6130778274017097,
+    "tail_asymmetry": 0.6130778274017097
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "LiveCodeBench",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        2.035990666830357
+      ]
+    ],
+    "loglik": 13.882681887300453,
+    "aic": -25.765363774600907,
+    "bic": -24.027694156317537,
+    "kendall_tau": 0.503205395115539,
+    "spearman_rho": 0.661344585443956,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5944240738383508,
+    "tail_asymmetry": 0.5944240738383508
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MATH-500",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        1.561337075266465
+      ]
+    ],
+    "loglik": 6.727428478938236,
+    "aic": -11.454856957876473,
+    "bic": -9.717187339593105,
+    "kendall_tau": 0.32096009603127507,
+    "spearman_rho": 0.44095374553119887,
+    "lambda_L": 0.0,
+    "lambda_U": 0.44115585954661185,
+    "tail_asymmetry": 0.44115585954661185
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "GPQA Main (full set)",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "family_id": "BicopFamily.gumbel",
+    "parameters": [
+      [
+        2.1744078634852766
+      ]
+    ],
+    "loglik": 16.652456312559007,
+    "aic": -31.304912625118014,
+    "bic": -29.567243006834644,
+    "kendall_tau": 0.5370739529918631,
+    "spearman_rho": 0.7028210486207349,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6245579857748857,
+    "tail_asymmetry": 0.6245579857748857
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "LiveCodeBench",
+    "n_obs": 42,
+    "family": "Gaussian",
+    "family_id": "BicopFamily.gaussian",
+    "parameters": [
+      [
+        0.7667383456993726
+      ]
+    ],
+    "loglik": 16.32004992638263,
+    "aic": -30.64009985276526,
+    "bic": -28.90243023448189,
+    "kendall_tau": 0.5449300897195866,
+    "spearman_rho": 0.7143031318650959,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "MATH-500",
+    "n_obs": 42,
+    "family": "Gaussian",
+    "family_id": "BicopFamily.gaussian",
+    "parameters": [
+      [
+        0.6306177088729849
+      ]
+    ],
+    "loglik": 8.825197069542824,
+    "aic": -15.650394139085648,
+    "bic": -13.91272452080228,
+    "kendall_tau": 0.4184540408478773,
+    "spearman_rho": 0.5715219543310375,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "LiveCodeBench",
+    "n_obs": 42,
+    "family": "BB7",
+    "family_id": "BicopFamily.bb7",
+    "parameters": [
+      [
+        4.339417675468933
+      ],
+      [
+        3.1454929810460137
+      ]
+    ],
+    "loglik": 39.583000709387065,
+    "aic": -75.16600141877413,
+    "bic": -71.69066218220739,
+    "kendall_tau": 0.7274841437275339,
+    "spearman_rho": 0.8944532238612811,
+    "lambda_L": 0.8022283243826009,
+    "lambda_U": 0.8268026911606137,
+    "tail_asymmetry": 0.024574366778012724
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "MATH-500",
+    "n_obs": 42,
+    "family": "Clayton",
+    "family_id": "BicopFamily.clayton",
+    "parameters": [
+      [
+        2.231377605173733
+      ]
+    ],
+    "loglik": 18.75683195157891,
+    "aic": -35.51366390315782,
+    "bic": -33.77599428487445,
+    "kendall_tau": 0.5462453770736995,
+    "spearman_rho": 0.7133184546493578,
+    "lambda_L": 0.7329803146850602,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7329803146850602
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "MATH-500",
+    "n_obs": 42,
+    "family": "Joe",
+    "family_id": "BicopFamily.joe",
+    "parameters": [
+      [
+        3.430376923482785
+      ]
+    ],
+    "loglik": 21.561185402901977,
+    "aic": -41.12237080580395,
+    "bic": -39.384701187520584,
+    "kendall_tau": 0.6059330940998995,
+    "spearman_rho": 0.7727100559686213,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7760766965778514,
+    "tail_asymmetry": 0.7760766965778514
+  }
+]

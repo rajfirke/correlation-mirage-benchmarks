@@ -1,0 +1,132 @@
+[
+  {
+    "benchmark_1": "MMMU",
+    "benchmark_2": "MathVista",
+    "n_obs": 26,
+    "bootstrap": {
+      "lambda_U_mean": 0.30755822527124904,
+      "lambda_U_median": 0.0,
+      "lambda_U_ci_lower": 0.0,
+      "lambda_U_ci_upper": 0.8840697824126384,
+      "lambda_U_std": 0.41119587973455274,
+      "lambda_L_mean": 0.06558264914436428,
+      "lambda_L_median": 0.0,
+      "lambda_L_ci_lower": 0.0,
+      "lambda_L_ci_upper": 0.9262176268284003,
+      "lambda_L_std": 0.235598184236236,
+      "family_stability": {
+        "Frank": 0.063,
+        "Gaussian": 0.571,
+        "Gumbel": 0.294,
+        "BB7": 0.064,
+        "Clayton": 0.007,
+        "BB1": 0.001
+      },
+      "n_successful": 1000,
+      "prob_lambda_U_positive": 0.359,
+      "prob_lambda_L_positive": 0.072
+    },
+    "gof_test": {
+      "test_statistic": 0.026520204364359555,
+      "p_value": 0.985,
+      "n_bootstrap": 200,
+      "reject_at_05": false
+    },
+    "delta_bic": {
+      "bic_gaussian": -53.27767989554996,
+      "bic_best_nongaussian": -51.155514973626985,
+      "bic_overall_best": -53.27767989554996,
+      "delta_bic": -2.1221649219229732,
+      "overall_best_family": "Gaussian",
+      "best_nongaussian_family": "Gumbel"
+    }
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 34,
+    "bootstrap": {
+      "lambda_U_mean": 0.1643076744757766,
+      "lambda_U_median": 0.0,
+      "lambda_U_ci_lower": 0.0,
+      "lambda_U_ci_upper": 0.8675079168224678,
+      "lambda_U_std": 0.3320485874418281,
+      "lambda_L_mean": 0.02584152253865549,
+      "lambda_L_median": 0.0,
+      "lambda_L_ci_lower": 0.0,
+      "lambda_L_ci_upper": 0.8279761423737261,
+      "lambda_L_std": 0.14973543776426365,
+      "family_stability": {
+        "Frank": 0.341,
+        "Joe": 0.003,
+        "Gaussian": 0.455,
+        "Student-t": 0.002,
+        "Gumbel": 0.172,
+        "BB7": 0.019,
+        "Clayton": 0.007,
+        "BB1": 0.001
+      },
+      "n_successful": 1000,
+      "prob_lambda_U_positive": 0.197,
+      "prob_lambda_L_positive": 0.029
+    },
+    "gof_test": {
+      "test_statistic": 0.032783426262663125,
+      "p_value": 0.965,
+      "n_bootstrap": 200,
+      "reject_at_05": false
+    },
+    "delta_bic": {
+      "bic_gaussian": -63.13706686156048,
+      "bic_best_nongaussian": -62.54486597447433,
+      "bic_overall_best": -63.13706686156048,
+      "delta_bic": -0.5922008870861504,
+      "overall_best_family": "Gaussian",
+      "best_nongaussian_family": "Frank"
+    }
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 28,
+    "bootstrap": {
+      "lambda_U_mean": 0.5090822904615125,
+      "lambda_U_median": 0.8277377235746292,
+      "lambda_U_ci_lower": 0.0,
+      "lambda_U_ci_upper": 0.8963839894184514,
+      "lambda_U_std": 0.42201529286836964,
+      "lambda_L_mean": 0.3133425179157609,
+      "lambda_L_median": 0.0,
+      "lambda_L_ci_lower": 0.0,
+      "lambda_L_ci_upper": 0.9586697563579012,
+      "lambda_L_std": 0.43055530138616394,
+      "family_stability": {
+        "Frank": 0.021,
+        "Joe": 0.014,
+        "Gaussian": 0.375,
+        "Student-t": 0.008,
+        "Gumbel": 0.23,
+        "BB7": 0.327,
+        "Clayton": 0.01,
+        "BB1": 0.015
+      },
+      "n_successful": 1000,
+      "prob_lambda_U_positive": 0.594,
+      "prob_lambda_L_positive": 0.352
+    },
+    "gof_test": {
+      "test_statistic": 0.0389091548103996,
+      "p_value": 0.94,
+      "n_bootstrap": 200,
+      "reject_at_05": false
+    },
+    "delta_bic": {
+      "bic_gaussian": -53.93937125041117,
+      "bic_best_nongaussian": -51.97727278376411,
+      "bic_overall_best": -53.93937125041117,
+      "delta_bic": -1.9620984666470633,
+      "overall_best_family": "Gaussian",
+      "best_nongaussian_family": "BB7"
+    }
+  }
+]

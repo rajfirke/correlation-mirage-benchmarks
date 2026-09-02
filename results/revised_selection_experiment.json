@@ -1,0 +1,215 @@
+[
+  {
+    "K": 3,
+    "method": "Correlation",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "HumanEval"
+    ],
+    "mae_all": 4.640142778018147,
+    "mae_tail": 4.834593777654126,
+    "tau_all": 0.6648945390811243,
+    "tau_top20": 0.4990311938022655,
+    "tau_bottom20": 0.4666666666666666,
+    "top_k_overlap": 0.6416666666666667,
+    "qr_mae_top": 2.5073047576838188,
+    "qr_mae_bottom": 6.9135297777207665,
+    "qr_mae_tails": 4.663542533446579
+  },
+  {
+    "K": 3,
+    "method": "PCA",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "IFEval"
+    ],
+    "mae_all": 4.97930917870533,
+    "mae_tail": 5.434649609173239,
+    "tau_all": 0.6609917385367756,
+    "tau_top20": 0.3239663610778941,
+    "tau_bottom20": 0.45555555555555555,
+    "top_k_overlap": 0.5976190476190475,
+    "qr_mae_top": 2.47803796628912,
+    "qr_mae_bottom": 8.73923028334461,
+    "qr_mae_tails": 5.50764715196113
+  },
+  {
+    "K": 3,
+    "method": "Copula-Tail",
+    "selected": [
+      "GPQA Main (full set)",
+      "HumanEval",
+      "MMLU-Pro"
+    ],
+    "mae_all": 5.018867964181747,
+    "mae_tail": 5.665940291696135,
+    "tau_all": 0.6282653457073408,
+    "tau_top20": 0.42619230208810527,
+    "tau_bottom20": 0.5222222222222223,
+    "top_k_overlap": 0.625,
+    "qr_mae_top": 1.8131595491995274,
+    "qr_mae_bottom": 6.805266944777962,
+    "qr_mae_tails": 4.256105721503867
+  },
+  {
+    "K": 3,
+    "method": "Random",
+    "selected": "100 samples",
+    "mae_all": 5.3220588393260755,
+    "mae_tail": 6.290380896945161,
+    "tau_all": 0.6097458312201525,
+    "tau_top20": 0.22115376233665837,
+    "tau_bottom20": 0.44892063492063494,
+    "top_k_overlap": 0.6026111111111111,
+    "qr_mae_top": 2.5689614059607204,
+    "qr_mae_bottom": 8.062916511603508,
+    "qr_mae_tails": 5.275768793293171
+  },
+  {
+    "K": 4,
+    "method": "Correlation",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "HumanEval",
+      "MATH-500"
+    ],
+    "mae_all": 4.597886527987901,
+    "mae_tail": 4.798575767385084,
+    "tau_all": 0.6927237173822284,
+    "tau_top20": 0.44642857142857134,
+    "tau_bottom20": 0.47222222222222215,
+    "top_k_overlap": 0.71875,
+    "qr_mae_top": 2.474629142045325,
+    "qr_mae_bottom": 6.87063975865752,
+    "qr_mae_tails": 4.702744112109039
+  },
+  {
+    "K": 4,
+    "method": "PCA",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "IFEval",
+      "MATH-500"
+    ],
+    "mae_all": 4.92149649336957,
+    "mae_tail": 5.424010722768011,
+    "tau_all": 0.6795986218181823,
+    "tau_top20": 0.3196554332192939,
+    "tau_bottom20": 0.49999999999999994,
+    "top_k_overlap": 0.6383928571428572,
+    "qr_mae_top": 2.1303367350744806,
+    "qr_mae_bottom": 8.12958256256226,
+    "qr_mae_tails": 5.129959648818371
+  },
+  {
+    "K": 4,
+    "method": "Copula-Tail",
+    "selected": [
+      "GPQA Main (full set)",
+      "HumanEval",
+      "MMLU-Pro",
+      "IFEval"
+    ],
+    "mae_all": 5.739229780840876,
+    "mae_tail": 6.476352041694205,
+    "tau_all": 0.667628248516904,
+    "tau_top20": 0.343013149236563,
+    "tau_bottom20": 0.5416666666666667,
+    "top_k_overlap": 0.65625,
+    "qr_mae_top": 1.9887584984304898,
+    "qr_mae_bottom": 8.821129230761573,
+    "qr_mae_tails": 5.2682964499494105
+  },
+  {
+    "K": 4,
+    "method": "Random",
+    "selected": "100 samples",
+    "mae_all": 4.948370967739713,
+    "mae_tail": 5.66934621398949,
+    "tau_all": 0.6170741437282306,
+    "tau_top20": 0.2342143488492132,
+    "tau_bottom20": 0.4692063492063492,
+    "top_k_overlap": 0.6090674603174604,
+    "qr_mae_top": 2.5415372992065937,
+    "qr_mae_bottom": 7.393122128274741,
+    "qr_mae_tails": 4.929631315767934
+  },
+  {
+    "K": 5,
+    "method": "Correlation",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "HumanEval",
+      "MATH-500",
+      "IFEval"
+    ],
+    "mae_all": 5.246890287393627,
+    "mae_tail": 5.332935390141712,
+    "tau_all": 0.7395938840997619,
+    "tau_top20": 0.5714285714285714,
+    "tau_bottom20": 0.46296296296296297,
+    "top_k_overlap": 0.7083333333333334,
+    "qr_mae_top": 2.5084730750822244,
+    "qr_mae_bottom": 8.054738278134634,
+    "qr_mae_tails": 5.281605676608429
+  },
+  {
+    "K": 5,
+    "method": "PCA",
+    "selected": [
+      "GPQA Diamond",
+      "MMLU",
+      "IFEval",
+      "MATH-500",
+      "HumanEval"
+    ],
+    "mae_all": 5.246890287393628,
+    "mae_tail": 5.33293539014171,
+    "tau_all": 0.7395938840997619,
+    "tau_top20": 0.5714285714285714,
+    "tau_bottom20": 0.46296296296296297,
+    "top_k_overlap": 0.7083333333333334,
+    "qr_mae_top": 2.5084730750822253,
+    "qr_mae_bottom": 8.054738278134632,
+    "qr_mae_tails": 5.281605676608428
+  },
+  {
+    "K": 5,
+    "method": "Copula-Tail",
+    "selected": [
+      "GPQA Main (full set)",
+      "HumanEval",
+      "MMLU-Pro",
+      "IFEval",
+      "MATH-500"
+    ],
+    "mae_all": 5.7875372552672895,
+    "mae_tail": 6.787470775897912,
+    "tau_all": 0.7157571934688937,
+    "tau_top20": 0.30878795271071885,
+    "tau_bottom20": 0.5740740740740741,
+    "top_k_overlap": 0.7638888888888888,
+    "qr_mae_top": 1.8258021356953733,
+    "qr_mae_bottom": 10.150572589345742,
+    "qr_mae_tails": 5.9881873625205575
+  },
+  {
+    "K": 5,
+    "method": "Random",
+    "selected": "100 samples",
+    "mae_all": 4.875291026708236,
+    "mae_tail": 5.539126428595912,
+    "tau_all": 0.6190608308335136,
+    "tau_top20": 0.21748494292269172,
+    "tau_bottom20": 0.470978835978836,
+    "top_k_overlap": 0.6044444444444445,
+    "qr_mae_top": 2.5099413406464466,
+    "qr_mae_bottom": 6.913619000604724,
+    "qr_mae_tails": 4.6736351001102
+  }
+]

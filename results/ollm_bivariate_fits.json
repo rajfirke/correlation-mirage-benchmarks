@@ -1,0 +1,167 @@
+[
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "BBH",
+    "n_obs": 4497,
+    "family": "Gumbel",
+    "spearman_rho": 0.6236674492964616,
+    "lambda_U": 0.518993050422567,
+    "lambda_L": 0.0,
+    "tail_asymmetry": 0.518993050422567,
+    "delta_bic": 270.0963393860334
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MATH Lvl 5",
+    "n_obs": 4497,
+    "family": "BB1",
+    "spearman_rho": 0.6834842731083844,
+    "lambda_U": 0.5457890325999701,
+    "lambda_L": 0.008262273559661306,
+    "tail_asymmetry": 0.5375267590403088,
+    "delta_bic": 235.96042001969863
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "GPQA",
+    "n_obs": 4497,
+    "family": "Gumbel",
+    "spearman_rho": 0.49158306982033956,
+    "lambda_U": 0.41018895119638965,
+    "lambda_L": 0.0,
+    "tail_asymmetry": 0.41018895119638965,
+    "delta_bic": 195.06909547872988
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MUSR",
+    "n_obs": 4497,
+    "family": "Frank",
+    "spearman_rho": 0.37362511233990675,
+    "lambda_U": 0.0,
+    "lambda_L": 0.0,
+    "tail_asymmetry": 0.0,
+    "delta_bic": 146.23787430366883
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MMLU-PRO",
+    "n_obs": 4497,
+    "family": "Gumbel",
+    "spearman_rho": 0.6510976852630398,
+    "lambda_U": 0.5270538723534073,
+    "lambda_L": 0.0,
+    "tail_asymmetry": 0.5270538723534073,
+    "delta_bic": 226.34221253968462
+  },
+  {
+    "benchmark_1": "BBH",
+    "benchmark_2": "MATH Lvl 5",
+    "n_obs": 4497,
+    "family": "BB1",
+    "spearman_rho": 0.7924474323580891,
+    "lambda_U": 0.6474211342011567,
+    "lambda_L": 0.10720655216049835,
+    "tail_asymmetry": 0.5402145820406583,
+    "delta_bic": 274.0154805843904
+  },
+  {
+    "benchmark_1": "BBH",
+    "benchmark_2": "GPQA",
+    "n_obs": 4497,
+    "family": "Frank",
+    "spearman_rho": 0.8610795270887768,
+    "lambda_U": 0.0,
+    "lambda_L": 0.0,
+    "tail_asymmetry": 0.0,
+    "delta_bic": 237.3901257280886
+  },
+  {
+    "benchmark_1": "BBH",
+    "benchmark_2": "MUSR",
+    "n_obs": 4497,
+    "family": "Frank",
+    "spearman_rho": 0.7325089592227535,
+    "lambda_U": 0.0,
+    "lambda_L": 0.0,
+    "tail_asymmetry": 0.0,
+    "delta_bic": 410.99611861002995
+  },
+  {
+    "benchmark_1": "BBH",
+    "benchmark_2": "MMLU-PRO",
+    "n_obs": 4497,
+    "family": "Student-t",
+    "spearman_rho": 0.9490221482760475,
+    "lambda_U": 0.6646239854300552,
+    "lambda_L": 0.6646239854300552,
+    "tail_asymmetry": 0.0,
+    "delta_bic": 590.5869668752912
+  },
+  {
+    "benchmark_1": "MATH Lvl 5",
+    "benchmark_2": "GPQA",
+    "n_obs": 4497,
+    "family": "Frank",
+    "spearman_rho": 0.7067243149900345,
+    "lambda_U": 0.0,
+    "lambda_L": 0.0,
+    "tail_asymmetry": 0.0,
+    "delta_bic": 156.02710693591962
+  },
+  {
+    "benchmark_1": "MATH Lvl 5",
+    "benchmark_2": "MUSR",
+    "n_obs": 4497,
+    "family": "Student-t",
+    "spearman_rho": 0.5317074028125915,
+    "lambda_U": 0.010860472676096267,
+    "lambda_L": 0.010860472676096267,
+    "tail_asymmetry": 0.0,
+    "delta_bic": 5.775125837272981
+  },
+  {
+    "benchmark_1": "MATH Lvl 5",
+    "benchmark_2": "MMLU-PRO",
+    "n_obs": 4497,
+    "family": "Frank",
+    "spearman_rho": 0.842095001103335,
+    "lambda_U": 0.0,
+    "lambda_L": 0.0,
+    "tail_asymmetry": 0.0,
+    "delta_bic": 584.5831406703655
+  },
+  {
+    "benchmark_1": "GPQA",
+    "benchmark_2": "MUSR",
+    "n_obs": 4497,
+    "family": "BB1",
+    "spearman_rho": 0.715886068300148,
+    "lambda_U": 0.5530697720262348,
+    "lambda_L": 0.0233596312313958,
+    "tail_asymmetry": 0.5297101407948389,
+    "delta_bic": 46.93844334284722
+  },
+  {
+    "benchmark_1": "GPQA",
+    "benchmark_2": "MMLU-PRO",
+    "n_obs": 4497,
+    "family": "Frank",
+    "spearman_rho": 0.8568314424389959,
+    "lambda_U": 0.0,
+    "lambda_L": 0.0,
+    "tail_asymmetry": 0.0,
+    "delta_bic": 115.00668993817999
+  },
+  {
+    "benchmark_1": "MUSR",
+    "benchmark_2": "MMLU-PRO",
+    "n_obs": 4497,
+    "family": "Frank",
+    "spearman_rho": 0.6902950941506903,
+    "lambda_U": 0.0,
+    "lambda_L": 0.0,
+    "tail_asymmetry": 0.0,
+    "delta_bic": 139.30436540295523
+  }
+]

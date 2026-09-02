@@ -1,0 +1,131 @@
+{
+  "simulation": [
+    {
+      "n": 4576,
+      "rho": 0.3,
+      "fpr": 0.004
+    },
+    {
+      "n": 4576,
+      "rho": 0.5,
+      "fpr": 0.0
+    },
+    {
+      "n": 4576,
+      "rho": 0.7,
+      "fpr": 0.002
+    },
+    {
+      "n": 4576,
+      "rho": 0.9,
+      "fpr": 0.0
+    }
+  ],
+  "bh_correction": [
+    {
+      "pair": "IFEval x BBH",
+      "delta_bic": 270.0963393860334,
+      "approx_p": 2.2352448924567152e-59,
+      "bh_corrected_p": 6.705734677370146e-59,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "IFEval x MATH Lvl 5",
+      "delta_bic": 235.96042001969863,
+      "approx_p": 5.778908510517026e-52,
+      "bh_corrected_p": 1.238337537967934e-51,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "IFEval x GPQA",
+      "delta_bic": 195.06909547872988,
+      "approx_p": 4.378084322310668e-43,
+      "bh_corrected_p": 7.296807203851114e-43,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "IFEval x MUSR",
+      "delta_bic": 146.23787430366883,
+      "approx_p": 1.757312799791706e-32,
+      "bh_corrected_p": 2.3963356360795994e-32,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "IFEval x MMLU-PRO",
+      "delta_bic": 226.34221253968462,
+      "approx_p": 7.086193970685487e-50,
+      "bh_corrected_p": 1.3286613695035288e-49,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "BBH x MATH Lvl 5",
+      "delta_bic": 274.0154805843904,
+      "approx_p": 3.149882931196983e-60,
+      "bh_corrected_p": 1.1812060991988686e-59,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "BBH x GPQA",
+      "delta_bic": 237.3901257280886,
+      "approx_p": 2.8274124694136243e-52,
+      "bh_corrected_p": 7.06853117353406e-52,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "BBH x MUSR",
+      "delta_bic": 410.99611861002995,
+      "approx_p": 5.666655384690394e-90,
+      "bh_corrected_p": 2.8333276923451968e-89,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "BBH x MMLU-PRO",
+      "delta_bic": 590.5869668752912,
+      "approx_p": 5.6973067238442236e-129,
+      "bh_corrected_p": 8.545960085766335e-128,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "MATH Lvl 5 x GPQA",
+      "delta_bic": 156.02710693591962,
+      "approx_p": 1.315661648493517e-34,
+      "bh_corrected_p": 1.9734924727402755e-34,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "MATH Lvl 5 x MUSR",
+      "delta_bic": 5.775125837272981,
+      "approx_p": 0.055711821541371595,
+      "bh_corrected_p": 0.055711821541371595,
+      "significant_bh_05": false
+    },
+    {
+      "pair": "MATH Lvl 5 x MMLU-PRO",
+      "delta_bic": 584.5831406703655,
+      "approx_p": 1.1465259705200222e-127,
+      "bh_corrected_p": 8.598944778900166e-127,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "GPQA x MUSR",
+      "delta_bic": 46.93844334284722,
+      "approx_p": 6.418691954326188e-11,
+      "bh_corrected_p": 6.877169951063772e-11,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "GPQA x MMLU-PRO",
+      "delta_bic": 115.00668993817999,
+      "approx_p": 1.0631990721928108e-25,
+      "bh_corrected_p": 1.226768160222474e-25,
+      "significant_bh_05": true
+    },
+    {
+      "pair": "MUSR x MMLU-PRO",
+      "delta_bic": 139.30436540295523,
+      "approx_p": 5.6291315786017445e-31,
+      "bh_corrected_p": 7.03641447325218e-31,
+      "significant_bh_05": true
+    }
+  ]
+}

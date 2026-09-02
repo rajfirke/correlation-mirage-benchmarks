@@ -1,0 +1,61 @@
+{
+  "vine_centrality": [
+    [
+      "GPQA Diamond",
+      6
+    ],
+    [
+      "Var18446744073709551615",
+      3
+    ],
+    [
+      "LiveCodeBench",
+      2
+    ],
+    [
+      "MATH-500",
+      2
+    ],
+    [
+      "MMLU-Pro",
+      1
+    ]
+  ],
+  "pca_centrality": [
+    [
+      "MATH-500",
+      1.407121205538666
+    ],
+    [
+      "MMLU",
+      1.2172656575834018
+    ],
+    [
+      "IFEval",
+      1.18200281698454
+    ],
+    [
+      "HumanEval",
+      1.0663330382906837
+    ],
+    [
+      "GPQA Main (full set)",
+      0.6698393534763469
+    ],
+    [
+      "LiveCodeBench",
+      0.6551665774702843
+    ],
+    [
+      "MMLU-Pro",
+      0.5795238670394425
+    ],
+    [
+      "GPQA Diamond",
+      0.5634068796573604
+    ]
+  ],
+  "vine_most_central": "GPQA Diamond",
+  "pca_most_central": "MATH-500",
+  "agreement": false
+}

@@ -1,0 +1,90 @@
+{
+  "dataset": "Open LLM Leaderboard v2",
+  "n_models": 4497,
+  "n_benchmarks": 6,
+  "benchmarks": [
+    "IFEval",
+    "BBH",
+    "MATH Lvl 5",
+    "GPQA",
+    "MUSR",
+    "MMLU-PRO"
+  ],
+  "fill_rate": "100%",
+  "headline_findings": {
+    "non_gaussian_rate": "15/15 (100%)",
+    "strong_evidence_delta_bic_gt_6": "14/15 (93%)",
+    "max_delta_bic": 590.6,
+    "deceptive_pairs_count": 5,
+    "deceptive_pairs_confirmed_100pct_stable": 4,
+    "mean_bootstrap_ci_width_lambda_U": 0.157,
+    "upper_tail_dominant_pairs": "8/15",
+    "frank_copula_pairs": "7/15 (47%)"
+  },
+  "deceptive_pairs": [
+    {
+      "pair": "BBH x GPQA",
+      "rho": 0.861,
+      "lambda_U": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "family_stability": "100%",
+      "delta_bic": 237.4,
+      "conditional_spearman_drop": "0.861 -> 0.434 (50% reduction in upper tail)"
+    },
+    {
+      "pair": "MATH Lvl 5 x MMLU-PRO",
+      "rho": 0.842,
+      "lambda_U": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "family_stability": "100%",
+      "delta_bic": 584.6,
+      "conditional_spearman_drop": "0.842 -> 0.228 (73% reduction in upper tail)"
+    },
+    {
+      "pair": "GPQA x MMLU-PRO",
+      "rho": 0.857,
+      "lambda_U": 0.0,
+      "ci": [
+        0.0,
+        0.652
+      ],
+      "family_stability": "78%",
+      "delta_bic": 115.0,
+      "conditional_spearman_drop": "0.857 -> 0.551 (36% reduction in upper tail)"
+    },
+    {
+      "pair": "BBH x MUSR",
+      "rho": 0.733,
+      "lambda_U": 0.0,
+      "ci": [
+        0.0,
+        0.0
+      ],
+      "family_stability": "100%",
+      "delta_bic": 411.0,
+      "conditional_spearman_drop": "0.733 -> 0.025 (97% reduction in upper tail)"
+    }
+  ],
+  "comparison_with_original_paper": {
+    "old_n": 42,
+    "new_n": 4497,
+    "old_ci_width": 0.884,
+    "new_ci_width": 0.157,
+    "ci_improvement": "5.6x narrower",
+    "old_family_stability": "57%",
+    "new_family_stability": "84% mean, 100% for headline pairs",
+    "old_delta_bic": "2-4",
+    "new_delta_bic": "46-591"
+  },
+  "vine_copula": {
+    "hub_node": "BBH (degree 4)",
+    "dominant_family": "Frank (zero tail dependence)",
+    "loglik": 14683.1
+  }
+}

@@ -1,0 +1,71 @@
+[
+  {
+    "K": 3,
+    "method": "Correlation",
+    "selected": [
+      "MMLU-PRO",
+      "IFEval",
+      "MUSR"
+    ],
+    "mae_all": 4.072567124395466,
+    "mae_tail": 4.5892532295490325,
+    "tau_top20": 0.44913691764723795,
+    "qr_mae_tails": 5.129644255509644
+  },
+  {
+    "K": 3,
+    "method": "Random",
+    "selected": "200 samples",
+    "mae_all": 5.472313400668703,
+    "mae_tail": 6.709660583720495,
+    "tau_top20": 0.3361047013292556,
+    "qr_mae_tails": 5.49811882654106
+  },
+  {
+    "K": 4,
+    "method": "Correlation",
+    "selected": [
+      "MMLU-PRO",
+      "IFEval",
+      "MUSR",
+      "MATH Lvl 5"
+    ],
+    "mae_all": 2.4601611787556545,
+    "mae_tail": 2.4814310685289382,
+    "tau_top20": 0.5516260714925113,
+    "qr_mae_tails": 3.3139168905548693
+  },
+  {
+    "K": 4,
+    "method": "Random",
+    "selected": "200 samples",
+    "mae_all": 5.211349972551619,
+    "mae_tail": 6.292781189045124,
+    "tau_top20": 0.34694294700445283,
+    "qr_mae_tails": 5.354390659535785
+  },
+  {
+    "K": 5,
+    "method": "Correlation",
+    "selected": [
+      "MMLU-PRO",
+      "IFEval",
+      "MUSR",
+      "MATH Lvl 5",
+      "GPQA"
+    ],
+    "mae_all": 2.9007589288879627,
+    "mae_tail": 2.7954342953787665,
+    "tau_top20": 0.5294090687013377,
+    "qr_mae_tails": 4.7093149500357505
+  },
+  {
+    "K": 5,
+    "method": "Random",
+    "selected": "200 samples",
+    "mae_all": 5.201487030164465,
+    "mae_tail": 6.247883510159885,
+    "tau_top20": 0.3494144224814218,
+    "qr_mae_tails": 5.425449431162601
+  }
+]

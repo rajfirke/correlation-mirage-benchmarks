@@ -1,0 +1,1230 @@
+{
+  "experiment_1_intersection_vs_union": [
+    {
+      "pair": "IFEval x BBH",
+      "benchmark_1": "IFEval",
+      "benchmark_2": "BBH",
+      "spearman_full": 0.6236674492964616,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": -0.25067923791087887,
+            "n_eff": 1378,
+            "p_value": 3.4409958019734875e-21,
+            "drop_pct": 140.2
+          },
+          "intersection": {
+            "rho": -0.002417981907131019,
+            "n_eff": 420,
+            "p_value": 0.960595530621705,
+            "drop_pct": 100.4
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": -0.33021937238709004,
+            "n_eff": 1138,
+            "p_value": 2.3464518409136195e-30,
+            "drop_pct": 152.9
+          },
+          "intersection": {
+            "rho": 0.12356235732127706,
+            "n_eff": 210,
+            "p_value": 0.07397720283610934,
+            "drop_pct": 80.2
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": -0.3866038229265691,
+            "n_eff": 785,
+            "p_value": 2.1854954924281016e-29,
+            "drop_pct": 162.0
+          },
+          "intersection": {
+            "rho": 0.17268424858004847,
+            "n_eff": 114,
+            "p_value": 0.06616978017195982,
+            "drop_pct": 72.3
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.31095941204038535,
+            "n_eff": 398,
+            "p_value": 2.2677691039343474e-10,
+            "drop_pct": 149.9
+          },
+          "intersection": {
+            "rho": -0.16111217844162629,
+            "n_eff": 50,
+            "p_value": 0.2636773488454069,
+            "drop_pct": 125.8
+          }
+        }
+      }
+    },
+    {
+      "pair": "IFEval x MATH Lvl 5",
+      "benchmark_1": "IFEval",
+      "benchmark_2": "MATH Lvl 5",
+      "spearman_full": 0.6834842731083844,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": -0.1740261028747919,
+            "n_eff": 1412,
+            "p_value": 4.585299043750765e-11,
+            "drop_pct": 125.5
+          },
+          "intersection": {
+            "rho": 0.3193438869101362,
+            "n_eff": 385,
+            "p_value": 1.4144839159067194e-10,
+            "drop_pct": 53.3
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": -0.22122602652155063,
+            "n_eff": 1105,
+            "p_value": 1.0228564827037319e-13,
+            "drop_pct": 132.4
+          },
+          "intersection": {
+            "rho": 0.24651236935886567,
+            "n_eff": 242,
+            "p_value": 0.00010664865494357927,
+            "drop_pct": 63.9
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": -0.3070973684137441,
+            "n_eff": 742,
+            "p_value": 1.140530926363984e-17,
+            "drop_pct": 144.9
+          },
+          "intersection": {
+            "rho": 0.2847251082143491,
+            "n_eff": 157,
+            "p_value": 0.00030129143386323145,
+            "drop_pct": 58.3
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.28447571335371663,
+            "n_eff": 387,
+            "p_value": 1.2242892993216634e-08,
+            "drop_pct": 141.6
+          },
+          "intersection": {
+            "rho": -0.031793055097142885,
+            "n_eff": 61,
+            "p_value": 0.8078224840423589,
+            "drop_pct": 104.7
+          }
+        }
+      }
+    },
+    {
+      "pair": "IFEval x GPQA",
+      "benchmark_1": "IFEval",
+      "benchmark_2": "GPQA",
+      "spearman_full": 0.49158306982033956,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": -0.37016647175307577,
+            "n_eff": 1410,
+            "p_value": 5.019040248418702e-47,
+            "drop_pct": 175.3
+          },
+          "intersection": {
+            "rho": -0.14398492344658767,
+            "n_eff": 391,
+            "p_value": 0.004332471421696742,
+            "drop_pct": 129.3
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": -0.48935499793983056,
+            "n_eff": 1124,
+            "p_value": 9.835958850512322e-69,
+            "drop_pct": 199.5
+          },
+          "intersection": {
+            "rho": -0.10771847770398336,
+            "n_eff": 224,
+            "p_value": 0.1078692389751152,
+            "drop_pct": 121.9
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": -0.5991955247473753,
+            "n_eff": 822,
+            "p_value": 2.940264653289452e-81,
+            "drop_pct": 221.9
+          },
+          "intersection": {
+            "rho": 0.17852761611710266,
+            "n_eff": 78,
+            "p_value": 0.11785300699585984,
+            "drop_pct": 63.7
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.6274562419501134,
+            "n_eff": 431,
+            "p_value": 1.4880408351893983e-48,
+            "drop_pct": 227.6
+          },
+          "intersection": {
+            "rho": 0.36057715378554206,
+            "n_eff": 22,
+            "p_value": 0.09924311495980988,
+            "drop_pct": 26.6
+          }
+        }
+      }
+    },
+    {
+      "pair": "IFEval x MUSR",
+      "benchmark_1": "IFEval",
+      "benchmark_2": "MUSR",
+      "spearman_full": 0.37362511233990675,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": -0.5467894798680707,
+            "n_eff": 1539,
+            "p_value": 1.0338897555151386e-120,
+            "drop_pct": 246.3
+          },
+          "intersection": {
+            "rho": -0.0987011861261249,
+            "n_eff": 259,
+            "p_value": 0.11304961561595711,
+            "drop_pct": 126.4
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": -0.6206727366902771,
+            "n_eff": 1240,
+            "p_value": 5.931725374404554e-133,
+            "drop_pct": 266.1
+          },
+          "intersection": {
+            "rho": -0.07590715842567927,
+            "n_eff": 108,
+            "p_value": 0.43492099031779946,
+            "drop_pct": 120.3
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": -0.6794400656379991,
+            "n_eff": 860,
+            "p_value": 1.7098996771377424e-117,
+            "drop_pct": 281.9
+          },
+          "intersection": {
+            "rho": 0.23574477540774397,
+            "n_eff": 38,
+            "p_value": 0.15419884146060708,
+            "drop_pct": 36.9
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.6751982443127792,
+            "n_eff": 434,
+            "p_value": 4.583508068848348e-59,
+            "drop_pct": 280.7
+          },
+          "intersection": {
+            "rho": 0.006593406593406593,
+            "n_eff": 14,
+            "p_value": 0.9821527354577906,
+            "drop_pct": 98.2
+          }
+        }
+      }
+    },
+    {
+      "pair": "IFEval x MMLU-PRO",
+      "benchmark_1": "IFEval",
+      "benchmark_2": "MMLU-PRO",
+      "spearman_full": 0.6510976852630398,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": -0.3185077329694532,
+            "n_eff": 1410,
+            "p_value": 1.3075516958170794e-34,
+            "drop_pct": 148.9
+          },
+          "intersection": {
+            "rho": -0.11139387646142201,
+            "n_eff": 388,
+            "p_value": 0.02823845124046545,
+            "drop_pct": 117.1
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": -0.3880896596925917,
+            "n_eff": 1153,
+            "p_value": 9.558366899410717e-43,
+            "drop_pct": 159.6
+          },
+          "intersection": {
+            "rho": 0.0002330541134667286,
+            "n_eff": 195,
+            "p_value": 0.9974200446925979,
+            "drop_pct": 100.0
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": -0.4681436835839304,
+            "n_eff": 806,
+            "p_value": 3.865248752601676e-45,
+            "drop_pct": 171.9
+          },
+          "intersection": {
+            "rho": 0.17639760171025196,
+            "n_eff": 92,
+            "p_value": 0.09256297312593034,
+            "drop_pct": 72.9
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.4409719980946694,
+            "n_eff": 406,
+            "p_value": 9.544308918385552e-21,
+            "drop_pct": 167.7
+          },
+          "intersection": {
+            "rho": 0.2504573817082419,
+            "n_eff": 40,
+            "p_value": 0.11905246798993287,
+            "drop_pct": 61.5
+          }
+        }
+      }
+    },
+    {
+      "pair": "BBH x MATH Lvl 5",
+      "benchmark_1": "BBH",
+      "benchmark_2": "MATH Lvl 5",
+      "spearman_full": 0.7924474323580891,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": 0.17865304226444884,
+            "n_eff": 1237,
+            "p_value": 2.483106152773845e-10,
+            "drop_pct": 77.5
+          },
+          "intersection": {
+            "rho": 0.1611302254404088,
+            "n_eff": 560,
+            "p_value": 0.00012836818342308636,
+            "drop_pct": 79.7
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": -0.011194835466683059,
+            "n_eff": 913,
+            "p_value": 0.7355070593345074,
+            "drop_pct": 101.4
+          },
+          "intersection": {
+            "rho": 0.07945135399442732,
+            "n_eff": 434,
+            "p_value": 0.0983259755554103,
+            "drop_pct": 90.0
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": -0.26074536904052875,
+            "n_eff": 663,
+            "p_value": 9.134497353871281e-12,
+            "drop_pct": 132.9
+          },
+          "intersection": {
+            "rho": 0.2487881219803185,
+            "n_eff": 237,
+            "p_value": 0.00010846466834029371,
+            "drop_pct": 68.6
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.30724248507831364,
+            "n_eff": 381,
+            "p_value": 8.99843126460463e-10,
+            "drop_pct": 138.8
+          },
+          "intersection": {
+            "rho": 0.27833045864232636,
+            "n_eff": 67,
+            "p_value": 0.022570540298794996,
+            "drop_pct": 64.9
+          }
+        }
+      }
+    },
+    {
+      "pair": "BBH x GPQA",
+      "benchmark_1": "BBH",
+      "benchmark_2": "GPQA",
+      "spearman_full": 0.8610795270887768,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": 0.4336747270070109,
+            "n_eff": 1026,
+            "p_value": 2.6927528753893342e-48,
+            "drop_pct": 49.6
+          },
+          "intersection": {
+            "rho": 0.4394342887406469,
+            "n_eff": 775,
+            "p_value": 6.277781075726896e-38,
+            "drop_pct": 49.0
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": 0.26679010438642814,
+            "n_eff": 842,
+            "p_value": 3.458313771587325e-15,
+            "drop_pct": 69.0
+          },
+          "intersection": {
+            "rho": 0.21895499700397592,
+            "n_eff": 506,
+            "p_value": 6.573264087034718e-07,
+            "drop_pct": 74.6
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": -0.03896847752350648,
+            "n_eff": 597,
+            "p_value": 0.34185566986208565,
+            "drop_pct": 104.5
+          },
+          "intersection": {
+            "rho": 0.10168588105633443,
+            "n_eff": 304,
+            "p_value": 0.07668696816324978,
+            "drop_pct": 88.2
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.27776140680228567,
+            "n_eff": 367,
+            "p_value": 6.309201733548705e-08,
+            "drop_pct": 132.3
+          },
+          "intersection": {
+            "rho": 0.10634343010140826,
+            "n_eff": 86,
+            "p_value": 0.3297962457792962,
+            "drop_pct": 87.6
+          }
+        }
+      }
+    },
+    {
+      "pair": "BBH x MUSR",
+      "benchmark_1": "BBH",
+      "benchmark_2": "MUSR",
+      "spearman_full": 0.7325089592227535,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": 0.024543928268077303,
+            "n_eff": 1270,
+            "p_value": 0.38214886662826003,
+            "drop_pct": 96.6
+          },
+          "intersection": {
+            "rho": 0.12646284538570574,
+            "n_eff": 528,
+            "p_value": 0.003606175789287781,
+            "drop_pct": 82.7
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": -0.12546098952418894,
+            "n_eff": 959,
+            "p_value": 9.796560713301373e-05,
+            "drop_pct": 117.1
+          },
+          "intersection": {
+            "rho": -0.05078119644645026,
+            "n_eff": 389,
+            "p_value": 0.3178028086434845,
+            "drop_pct": 106.9
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": -0.3593914423419685,
+            "n_eff": 680,
+            "p_value": 3.6738933406490296e-22,
+            "drop_pct": 149.1
+          },
+          "intersection": {
+            "rho": 0.2324776852677075,
+            "n_eff": 219,
+            "p_value": 0.0005237463677297664,
+            "drop_pct": 68.3
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.5234827166964072,
+            "n_eff": 390,
+            "p_value": 8.001673171157537e-29,
+            "drop_pct": 171.5
+          },
+          "intersection": {
+            "rho": 0.30447155100431755,
+            "n_eff": 58,
+            "p_value": 0.020137327773989376,
+            "drop_pct": 58.4
+          }
+        }
+      }
+    },
+    {
+      "pair": "BBH x MMLU-PRO",
+      "benchmark_1": "BBH",
+      "benchmark_2": "MMLU-PRO",
+      "spearman_full": 0.9490221482760475,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": 0.7783874052450297,
+            "n_eff": 1056,
+            "p_value": 2.461059574592237e-215,
+            "drop_pct": 18.0
+          },
+          "intersection": {
+            "rho": 0.7122260238227863,
+            "n_eff": 742,
+            "p_value": 7.59729564844942e-116,
+            "drop_pct": 25.0
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": 0.6355851249908651,
+            "n_eff": 730,
+            "p_value": 7.322923037977472e-84,
+            "drop_pct": 33.0
+          },
+          "intersection": {
+            "rho": 0.6031503714952013,
+            "n_eff": 618,
+            "p_value": 1.7147497420632252e-62,
+            "drop_pct": 36.4
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": 0.39960090777661483,
+            "n_eff": 535,
+            "p_value": 6.265631628637668e-22,
+            "drop_pct": 57.9
+          },
+          "intersection": {
+            "rho": 0.4755906317816832,
+            "n_eff": 364,
+            "p_value": 6.084680833666414e-22,
+            "drop_pct": 49.9
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": 0.3162785902860882,
+            "n_eff": 314,
+            "p_value": 1.005064926965886e-08,
+            "drop_pct": 66.7
+          },
+          "intersection": {
+            "rho": 0.5543893431225803,
+            "n_eff": 132,
+            "p_value": 5.32955894001958e-12,
+            "drop_pct": 41.6
+          }
+        }
+      }
+    },
+    {
+      "pair": "MATH Lvl 5 x GPQA",
+      "benchmark_1": "MATH Lvl 5",
+      "benchmark_2": "GPQA",
+      "spearman_full": 0.7067243149900345,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": 0.0024125756754272434,
+            "n_eff": 1267,
+            "p_value": 0.931632674048787,
+            "drop_pct": 99.7
+          },
+          "intersection": {
+            "rho": -0.16893095211976603,
+            "n_eff": 533,
+            "p_value": 8.887327079912434e-05,
+            "drop_pct": 123.9
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": -0.17719925413502474,
+            "n_eff": 980,
+            "p_value": 2.345308683456662e-08,
+            "drop_pct": 125.1
+          },
+          "intersection": {
+            "rho": -0.18361045854089572,
+            "n_eff": 367,
+            "p_value": 0.00040688891151203794,
+            "drop_pct": 126.0
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": -0.4443109889533442,
+            "n_eff": 706,
+            "p_value": 1.6188810368520788e-35,
+            "drop_pct": 162.9
+          },
+          "intersection": {
+            "rho": -0.134640254901504,
+            "n_eff": 195,
+            "p_value": 0.0605709073547785,
+            "drop_pct": 119.1
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.5488635402444922,
+            "n_eff": 416,
+            "p_value": 4.224631211688968e-34,
+            "drop_pct": 177.7
+          },
+          "intersection": {
+            "rho": 0.2319839583682099,
+            "n_eff": 37,
+            "p_value": 0.16709362961317223,
+            "drop_pct": 67.2
+          }
+        }
+      }
+    },
+    {
+      "pair": "MATH Lvl 5 x MUSR",
+      "benchmark_1": "MATH Lvl 5",
+      "benchmark_2": "MUSR",
+      "spearman_full": 0.5317074028125915,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": -0.21399624691157865,
+            "n_eff": 1310,
+            "p_value": 4.9242310187459854e-15,
+            "drop_pct": 140.2
+          },
+          "intersection": {
+            "rho": 0.07981089518614222,
+            "n_eff": 487,
+            "p_value": 0.07848336015855413,
+            "drop_pct": 85.0
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": -0.3663360251764351,
+            "n_eff": 1023,
+            "p_value": 7.618790724780606e-34,
+            "drop_pct": 168.9
+          },
+          "intersection": {
+            "rho": 0.06485173866769257,
+            "n_eff": 324,
+            "p_value": 0.24440560244138432,
+            "drop_pct": 87.8
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": -0.5388324053561038,
+            "n_eff": 750,
+            "p_value": 1.0585856078035366e-57,
+            "drop_pct": 201.3
+          },
+          "intersection": {
+            "rho": 0.19526264984831562,
+            "n_eff": 149,
+            "p_value": 0.017012869395547022,
+            "drop_pct": 63.3
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.573021682320584,
+            "n_eff": 416,
+            "p_value": 1.1245699445706768e-37,
+            "drop_pct": 207.8
+          },
+          "intersection": {
+            "rho": 0.43178070023188436,
+            "n_eff": 32,
+            "p_value": 0.013599920984583565,
+            "drop_pct": 18.8
+          }
+        }
+      }
+    },
+    {
+      "pair": "MATH Lvl 5 x MMLU-PRO",
+      "benchmark_1": "MATH Lvl 5",
+      "benchmark_2": "MMLU-PRO",
+      "spearman_full": 0.842095001103335,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": 0.22798094909364774,
+            "n_eff": 1116,
+            "p_value": 1.265362734901953e-14,
+            "drop_pct": 72.9
+          },
+          "intersection": {
+            "rho": 0.12043370590500911,
+            "n_eff": 681,
+            "p_value": 0.0016409478628330683,
+            "drop_pct": 85.7
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": 0.039856877291689755,
+            "n_eff": 900,
+            "p_value": 0.2322749301356744,
+            "drop_pct": 95.3
+          },
+          "intersection": {
+            "rho": -0.126884737845294,
+            "n_eff": 447,
+            "p_value": 0.00723136562499706,
+            "drop_pct": 115.1
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": -0.26231950474919363,
+            "n_eff": 656,
+            "p_value": 8.747989123364999e-12,
+            "drop_pct": 131.2
+          },
+          "intersection": {
+            "rho": 0.051156500483477155,
+            "n_eff": 243,
+            "p_value": 0.4272775107975199,
+            "drop_pct": 93.9
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.37183683893274133,
+            "n_eff": 390,
+            "p_value": 3.111308332810324e-14,
+            "drop_pct": 144.2
+          },
+          "intersection": {
+            "rho": 0.1376198538584052,
+            "n_eff": 56,
+            "p_value": 0.31180222286194875,
+            "drop_pct": 83.7
+          }
+        }
+      }
+    },
+    {
+      "pair": "GPQA x MUSR",
+      "benchmark_1": "GPQA",
+      "benchmark_2": "MUSR",
+      "spearman_full": 0.715886068300148,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": 0.24497620367324666,
+            "n_eff": 1260,
+            "p_value": 1.1251021780726423e-18,
+            "drop_pct": 65.8
+          },
+          "intersection": {
+            "rho": 0.5545242429440885,
+            "n_eff": 541,
+            "p_value": 6.079226838740532e-45,
+            "drop_pct": 22.5
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": 0.23613744807145312,
+            "n_eff": 933,
+            "p_value": 2.7371137627394563e-13,
+            "drop_pct": 67.0
+          },
+          "intersection": {
+            "rho": 0.44000619999633406,
+            "n_eff": 415,
+            "p_value": 4.4469651553330755e-21,
+            "drop_pct": 38.5
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": 0.10858086360573391,
+            "n_eff": 609,
+            "p_value": 0.007318809904001305,
+            "drop_pct": 84.8
+          },
+          "intersection": {
+            "rho": 0.36326250744222804,
+            "n_eff": 291,
+            "p_value": 1.6618543733232766e-10,
+            "drop_pct": 49.3
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.20940816614574884,
+            "n_eff": 337,
+            "p_value": 0.00010751903993703365,
+            "drop_pct": 129.3
+          },
+          "intersection": {
+            "rho": 0.19633506543501983,
+            "n_eff": 116,
+            "p_value": 0.03466093460137017,
+            "drop_pct": 72.6
+          }
+        }
+      }
+    },
+    {
+      "pair": "GPQA x MMLU-PRO",
+      "benchmark_1": "GPQA",
+      "benchmark_2": "MMLU-PRO",
+      "spearman_full": 0.8568314424389959,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": 0.5513727482297461,
+            "n_eff": 1112,
+            "p_value": 1.909194323309425e-89,
+            "drop_pct": 35.6
+          },
+          "intersection": {
+            "rho": 0.4833062902088449,
+            "n_eff": 689,
+            "p_value": 1.2895122309878218e-41,
+            "drop_pct": 43.6
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": 0.44218406696986584,
+            "n_eff": 830,
+            "p_value": 4.751925322442682e-41,
+            "drop_pct": 48.4
+          },
+          "intersection": {
+            "rho": 0.3791630414695121,
+            "n_eff": 518,
+            "p_value": 3.721855462639097e-19,
+            "drop_pct": 55.7
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": 0.17835618381960996,
+            "n_eff": 565,
+            "p_value": 2.0050526558684407e-05,
+            "drop_pct": 79.2
+          },
+          "intersection": {
+            "rho": 0.21761262919162805,
+            "n_eff": 335,
+            "p_value": 5.9115967843461576e-05,
+            "drop_pct": 74.6
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.2135028913729793,
+            "n_eff": 330,
+            "p_value": 9.27096827507499e-05,
+            "drop_pct": 124.9
+          },
+          "intersection": {
+            "rho": 0.3458462679289633,
+            "n_eff": 121,
+            "p_value": 0.00010215190521715249,
+            "drop_pct": 59.6
+          }
+        }
+      }
+    },
+    {
+      "pair": "MUSR x MMLU-PRO",
+      "benchmark_1": "MUSR",
+      "benchmark_2": "MMLU-PRO",
+      "spearman_full": 0.6902950941506903,
+      "n_total": 4497,
+      "quantiles": {
+        "0.8": {
+          "union": {
+            "rho": 0.09535794549866201,
+            "n_eff": 1260,
+            "p_value": 0.000700872810282993,
+            "drop_pct": 86.2
+          },
+          "intersection": {
+            "rho": 0.24700197392258783,
+            "n_eff": 538,
+            "p_value": 6.396667265877542e-09,
+            "drop_pct": 64.2
+          }
+        },
+        "0.85": {
+          "union": {
+            "rho": -0.006714832929925265,
+            "n_eff": 945,
+            "p_value": 0.8366746780433767,
+            "drop_pct": 101.0
+          },
+          "intersection": {
+            "rho": -0.04307815108372612,
+            "n_eff": 403,
+            "p_value": 0.3884112732867064,
+            "drop_pct": 106.2
+          }
+        },
+        "0.9": {
+          "union": {
+            "rho": -0.2413453026876581,
+            "n_eff": 657,
+            "p_value": 3.674535170828123e-10,
+            "drop_pct": 135.0
+          },
+          "intersection": {
+            "rho": -0.05329367000529395,
+            "n_eff": 241,
+            "p_value": 0.4101530731312482,
+            "drop_pct": 107.7
+          }
+        },
+        "0.95": {
+          "union": {
+            "rho": -0.5221007027532868,
+            "n_eff": 384,
+            "p_value": 3.0891566525532006e-28,
+            "drop_pct": 175.6
+          },
+          "intersection": {
+            "rho": 0.5955112841945657,
+            "n_eff": 62,
+            "p_value": 3.299163506405186e-07,
+            "drop_pct": 13.7
+          }
+        }
+      }
+    }
+  ],
+  "experiment_2_berkson_intersection": [
+    {
+      "pair": "BBH x GPQA",
+      "spearman_full": 0.8610795270887768,
+      "n": 4497,
+      "observed_intersection": {
+        "0.8": {
+          "rho": 0.4394342887406469,
+          "n_eff": 775
+        },
+        "0.9": {
+          "rho": 0.10168588105633443,
+          "n_eff": 304
+        },
+        "0.95": {
+          "rho": 0.10634343010140826,
+          "n_eff": 86
+        }
+      },
+      "null_predictions_intersection": {
+        "0.8": {
+          "gaussian": {
+            "mean": 0.5049754518619335,
+            "ci": [
+              0.4414609430298811,
+              0.5632335497882657
+            ],
+            "excess": -0.0655411631212866,
+            "p_value": 0.02
+          },
+          "student_t_df5": {}
+        },
+        "0.9": {
+          "gaussian": {
+            "mean": 0.4498926155404026,
+            "ci": [
+              0.354075715056982,
+              0.5433481999353801
+            ],
+            "excess": -0.3482067344840682,
+            "p_value": 0.0
+          },
+          "student_t_df5": {}
+        },
+        "0.95": {
+          "gaussian": {
+            "mean": 0.40078196755052753,
+            "ci": [
+              0.2437089034230957,
+              0.5424469580842719
+            ],
+            "excess": -0.2944385374491193,
+            "p_value": 0.002
+          },
+          "student_t_df5": {}
+        }
+      }
+    },
+    {
+      "pair": "BBH x MUSR",
+      "spearman_full": 0.7325089592227535,
+      "n": 4497,
+      "observed_intersection": {
+        "0.8": {
+          "rho": 0.12646284538570574,
+          "n_eff": 528
+        },
+        "0.9": {
+          "rho": 0.2324776852677075,
+          "n_eff": 219
+        },
+        "0.95": {
+          "rho": 0.30447155100431755,
+          "n_eff": 58
+        }
+      },
+      "null_predictions_intersection": {
+        "0.8": {
+          "gaussian": {
+            "mean": 0.3277144953488066,
+            "ci": [
+              0.24729048514215138,
+              0.40914874022260067
+            ],
+            "excess": -0.20125164996310085,
+            "p_value": 0.0
+          },
+          "student_t_df5": {}
+        },
+        "0.9": {
+          "gaussian": {
+            "mean": 0.27656962177735456,
+            "ci": [
+              0.15633849588609325,
+              0.39837710310392016
+            ],
+            "excess": -0.044091936509647045,
+            "p_value": 0.236
+          },
+          "student_t_df5": {}
+        },
+        "0.95": {
+          "gaussian": {
+            "mean": 0.24030121337512253,
+            "ci": [
+              0.04048128589748221,
+              0.4373085909542571
+            ],
+            "excess": 0.06417033762919502,
+            "p_value": 0.732
+          },
+          "student_t_df5": {}
+        }
+      }
+    },
+    {
+      "pair": "MATH Lvl 5 x MMLU-PRO",
+      "spearman_full": 0.842095001103335,
+      "n": 4497,
+      "observed_intersection": {
+        "0.8": {
+          "rho": 0.12043370590500911,
+          "n_eff": 681
+        },
+        "0.9": {
+          "rho": 0.051156500483477155,
+          "n_eff": 243
+        },
+        "0.95": {
+          "rho": 0.1376198538584052,
+          "n_eff": 56
+        }
+      },
+      "null_predictions_intersection": {
+        "0.8": {
+          "gaussian": {
+            "mean": 0.4714970125415215,
+            "ci": [
+              0.40339612221878873,
+              0.5328900625830642
+            ],
+            "excess": -0.35106330663651236,
+            "p_value": 0.0
+          },
+          "student_t_df5": {}
+        },
+        "0.9": {
+          "gaussian": {
+            "mean": 0.41640355899050907,
+            "ci": [
+              0.31371234490676475,
+              0.5145392054980279
+            ],
+            "excess": -0.36524705850703193,
+            "p_value": 0.0
+          },
+          "student_t_df5": {}
+        },
+        "0.95": {
+          "gaussian": {
+            "mean": 0.36668842416820047,
+            "ci": [
+              0.206360518262311,
+              0.5212787159599235
+            ],
+            "excess": -0.22906857030979527,
+            "p_value": 0.004
+          },
+          "student_t_df5": {}
+        }
+      }
+    }
+  ],
+  "experiment_3_tie_analysis": {
+    "IFEval": {
+      "n": 4497,
+      "n_unique": 3714,
+      "tie_fraction": 0.1741,
+      "full_range": 89.98,
+      "top_20pct_range": 22.54,
+      "spread_ratio": 0.2505,
+      "min": 0.0,
+      "max": 89.98,
+      "top_20pct_min": 67.44
+    },
+    "BBH": {
+      "n": 4497,
+      "n_unique": 4403,
+      "tie_fraction": 0.0209,
+      "full_range": 76.45,
+      "top_20pct_range": 35.68,
+      "spread_ratio": 0.4667,
+      "min": 0.25,
+      "max": 76.7,
+      "top_20pct_min": 41.02
+    },
+    "MATH Lvl 5": {
+      "n": 4497,
+      "n_unique": 732,
+      "tie_fraction": 0.8372,
+      "full_range": 71.45,
+      "top_20pct_range": 43.73,
+      "spread_ratio": 0.6121,
+      "min": 0.0,
+      "max": 71.45,
+      "top_20pct_min": 27.72
+    },
+    "GPQA": {
+      "n": 4497,
+      "n_unique": 227,
+      "tie_fraction": 0.9495,
+      "full_range": 29.42,
+      "top_20pct_range": 18.9,
+      "spread_ratio": 0.6426,
+      "min": 0.0,
+      "max": 29.42,
+      "top_20pct_min": 10.51
+    },
+    "MUSR": {
+      "n": 4497,
+      "n_unique": 3268,
+      "tie_fraction": 0.2733,
+      "full_range": 38.69,
+      "top_20pct_range": 23.98,
+      "spread_ratio": 0.62,
+      "min": 0.0,
+      "max": 38.69,
+      "top_20pct_min": 14.7
+    },
+    "MMLU-PRO": {
+      "n": 4497,
+      "n_unique": 2665,
+      "tie_fraction": 0.4074,
+      "full_range": 69.75,
+      "top_20pct_range": 32.55,
+      "spread_ratio": 0.4667,
+      "min": 0.28,
+      "max": 70.03,
+      "top_20pct_min": 37.48
+    }
+  },
+  "experiment_4_scheme_correlation": {
+    "spearman_between_schemes": 0.8285714285714284,
+    "spearman_p": 0.00013524478013276988,
+    "pearson_between_schemes": 0.8374981617748389,
+    "pearson_p": 9.773477106427178e-05,
+    "n_pairs": 15,
+    "deceptive_union": 12,
+    "deceptive_intersection": 11,
+    "classification_agreement": 14
+  }
+}

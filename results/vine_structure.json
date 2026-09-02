@@ -1,0 +1,217 @@
+{
+  "dim": 8,
+  "trunc_lvl": 7,
+  "matrix": [
+    [
+      1,
+      7,
+      1,
+      1,
+      1,
+      7,
+      8,
+      8
+    ],
+    [
+      4,
+      1,
+      6,
+      3,
+      7,
+      8,
+      7,
+      0
+    ],
+    [
+      6,
+      3,
+      3,
+      7,
+      8,
+      1,
+      0,
+      0
+    ],
+    [
+      3,
+      6,
+      7,
+      8,
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      7,
+      4,
+      8,
+      6,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      8,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      8,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "benchmarks": [
+    "GPQA Diamond",
+    "HumanEval",
+    "MMLU-Pro",
+    "IFEval",
+    "MMLU",
+    "GPQA Main (full set)",
+    "LiveCodeBench",
+    "MATH-500"
+  ],
+  "trees": [
+    {
+      "level": 1,
+      "edges": [
+        {
+          "node_1": "GPQA Diamond",
+          "node_2": "GPQA Diamond",
+          "family": "Gumbel",
+          "parameters": [
+            [
+              2.256591828519372
+            ]
+          ]
+        },
+        {
+          "node_1": "LiveCodeBench",
+          "node_2": "GPQA Diamond",
+          "family": "Gumbel",
+          "parameters": [
+            [
+              2.404092413891302
+            ]
+          ]
+        },
+        {
+          "node_1": "GPQA Diamond",
+          "node_2": "MMLU-Pro",
+          "family": "Gumbel",
+          "parameters": [
+            [
+              2.340388996789766
+            ]
+          ]
+        },
+        {
+          "node_1": "GPQA Diamond",
+          "node_2": "MATH-500",
+          "family": "BB7",
+          "parameters": [
+            [
+              5.999999
+            ],
+            [
+              17.97401911113928
+            ]
+          ]
+        },
+        {
+          "node_1": "GPQA Diamond",
+          "node_2": "Var18446744073709551615",
+          "family": "Gumbel",
+          "parameters": [
+            [
+              3.6461307293350713
+            ]
+          ]
+        },
+        {
+          "node_1": "LiveCodeBench",
+          "node_2": "Var18446744073709551615",
+          "family": "Gaussian",
+          "parameters": [
+            [
+              0.943836121924922
+            ]
+          ]
+        },
+        {
+          "node_1": "MATH-500",
+          "node_2": "Var18446744073709551615",
+          "family": "Joe",
+          "parameters": [
+            [
+              3.430376923483577
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "edges": [
+        {
+          "node_1": "IFEval",
+          "node_2": "GPQA Diamond",
+          "given": "GPQA Diamond",
+          "family": "Gumbel"
+        },
+        {
+          "node_1": "GPQA Diamond",
+          "node_2": "GPQA Diamond",
+          "given": "LiveCodeBench",
+          "family": "Joe"
+        },
+        {
+          "node_1": "GPQA Main (full set)",
+          "node_2": "MMLU-Pro",
+          "given": "GPQA Diamond",
+          "family": "Joe"
+        },
+        {
+          "node_1": "MMLU-Pro",
+          "node_2": "MATH-500",
+          "given": "GPQA Diamond",
+          "family": "Gaussian"
+        },
+        {
+          "node_1": "LiveCodeBench",
+          "node_2": "Var18446744073709551615",
+          "given": "GPQA Diamond",
+          "family": "Joe"
+        },
+        {
+          "node_1": "MATH-500",
+          "node_2": "Var18446744073709551615",
+          "given": "LiveCodeBench",
+          "family": "Joe"
+        }
+      ]
+    }
+  ]
+}

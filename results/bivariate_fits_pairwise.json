@@ -1,0 +1,3982 @@
+[
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "HumanEval",
+    "n_obs": 118,
+    "family": "Gumbel",
+    "spearman_rho": 0.729150667397359,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6089916426611093,
+    "tail_asymmetry": 0.6089916426611093
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MMLU-Pro",
+    "n_obs": 127,
+    "family": "Gumbel",
+    "spearman_rho": 0.9375076908242064,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8297890050150925,
+    "tail_asymmetry": 0.8297890050150925
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "IFEval",
+    "n_obs": 108,
+    "family": "Gaussian",
+    "spearman_rho": 0.6853381271766086,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MMLU",
+    "n_obs": 108,
+    "family": "Gumbel",
+    "spearman_rho": 0.8250752822007306,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7062627997818645,
+    "tail_asymmetry": 0.7062627997818645
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "GPQA Main (full set)",
+    "n_obs": 110,
+    "family": "Student-t",
+    "spearman_rho": 0.9734326744746774,
+    "lambda_L": 0.9056579825110994,
+    "lambda_U": 0.9056579825110994,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "LiveCodeBench",
+    "n_obs": 109,
+    "family": "Gaussian",
+    "spearman_rho": 0.9233091454138854,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MATH-500",
+    "n_obs": 94,
+    "family": "Gumbel",
+    "spearman_rho": 0.8108948410711527,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7016521619144243,
+    "tail_asymmetry": 0.7016521619144243
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "SWE-bench Verified",
+    "n_obs": 84,
+    "family": "Student-t",
+    "spearman_rho": 0.8590052552612824,
+    "lambda_L": 0.6878091548157497,
+    "lambda_U": 0.6878091548157497,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "AIME 2024",
+    "n_obs": 78,
+    "family": "Gaussian",
+    "spearman_rho": 0.8485942663786752,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "AIME 2025",
+    "n_obs": 80,
+    "family": "Gumbel",
+    "spearman_rho": 0.836969007934468,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7578866333842353,
+    "tail_asymmetry": 0.7578866333842353
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "SimpleQA",
+    "n_obs": 75,
+    "family": "Gumbel",
+    "spearman_rho": 0.7267663593159969,
+    "lambda_L": 0.0,
+    "lambda_U": 0.675318855237083,
+    "tail_asymmetry": 0.675318855237083
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MATH",
+    "n_obs": 57,
+    "family": "Gaussian",
+    "spearman_rho": 0.6177147500825394,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "GSM8K",
+    "n_obs": 54,
+    "family": "BB7",
+    "spearman_rho": 0.7308080937557343,
+    "lambda_L": 0.6757533580093258,
+    "lambda_U": 0.6460099133458312,
+    "tail_asymmetry": 0.029743444663494545
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "Codeforces Rating",
+    "n_obs": 64,
+    "family": "Gaussian",
+    "spearman_rho": 0.8254662443189451,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MMMU",
+    "n_obs": 60,
+    "family": "Gumbel",
+    "spearman_rho": 0.9433173067204509,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8427318132280464,
+    "tail_asymmetry": 0.8427318132280464
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 60,
+    "family": "Gumbel",
+    "spearman_rho": 0.9037170917611075,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8048115907673468,
+    "tail_asymmetry": 0.8048115907673468
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 55,
+    "family": "Clayton",
+    "spearman_rho": 0.41757012778743996,
+    "lambda_L": 0.4754026887258996,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.4754026887258996
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MMMLU",
+    "n_obs": 51,
+    "family": "Gaussian",
+    "spearman_rho": 0.9263551095089215,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "DROP",
+    "n_obs": 36,
+    "family": "Gumbel",
+    "spearman_rho": 0.36307455819384354,
+    "lambda_L": 0.0,
+    "lambda_U": 0.3922239091674631,
+    "tail_asymmetry": 0.3922239091674631
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 45,
+    "family": "Gumbel",
+    "spearman_rho": 0.8393910476972672,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7126839981127879,
+    "tail_asymmetry": 0.7126839981127879
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 45,
+    "family": "Gumbel",
+    "spearman_rho": 0.9182949445967649,
+    "lambda_L": 0.0,
+    "lambda_U": 0.801220598131577,
+    "tail_asymmetry": 0.801220598131577
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 44,
+    "family": "Joe",
+    "spearman_rho": 0.8356183825517138,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8135902892232691,
+    "tail_asymmetry": 0.8135902892232691
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "spearman_rho": 0.9210760878372903,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8279586997133097,
+    "tail_asymmetry": 0.8279586997133097
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "HLE Text",
+    "n_obs": 43,
+    "family": "Gumbel",
+    "spearman_rho": 0.8337298589007581,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7184182681783551,
+    "tail_asymmetry": 0.7184182681783551
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 38,
+    "family": "Gumbel",
+    "spearman_rho": 0.8257252375693146,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7244802136914781,
+    "tail_asymmetry": 0.7244802136914781
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "BigBench Hard (BBH)",
+    "n_obs": 25,
+    "family": "BB7",
+    "spearman_rho": 0.8124639504013389,
+    "lambda_L": 0.8622141777508866,
+    "lambda_U": 0.6147397624372124,
+    "tail_asymmetry": 0.2474744153136742
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "BrowseComp",
+    "n_obs": 37,
+    "family": "Gumbel",
+    "spearman_rho": 0.829193100407917,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7350803533860246,
+    "tail_asymmetry": 0.7350803533860246
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MT-AIME2024",
+    "n_obs": 34,
+    "family": "Gaussian",
+    "spearman_rho": 0.648933778186673,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MMLU-Redux",
+    "n_obs": 36,
+    "family": "Joe",
+    "spearman_rho": 0.9763789845394748,
+    "lambda_L": 0.0,
+    "lambda_U": 0.9378885284180138,
+    "tail_asymmetry": 0.9378885284180138
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "SWE-bench Pro",
+    "n_obs": 34,
+    "family": "Gumbel",
+    "spearman_rho": 0.6815471720070458,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6292260405076591,
+    "tail_asymmetry": 0.6292260405076591
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 34,
+    "family": "Gaussian",
+    "spearman_rho": 0.9358807822515545,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "CharXiv Reasoning",
+    "n_obs": 32,
+    "family": "Gumbel",
+    "spearman_rho": 0.8552836622851839,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7775327179894651,
+    "tail_asymmetry": 0.7775327179894651
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "LiveBench",
+    "n_obs": 31,
+    "family": "Joe",
+    "spearman_rho": 0.5500655468118852,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6906828707689232,
+    "tail_asymmetry": 0.6906828707689232
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "Toolathlon",
+    "n_obs": 29,
+    "family": "Gaussian",
+    "spearman_rho": 0.7459926924629425,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "IFBench",
+    "n_obs": 29,
+    "family": "Clayton",
+    "spearman_rho": 0.8333538676340946,
+    "lambda_L": 0.8515659517752955,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.8515659517752955
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "Tau-Bench Retail",
+    "n_obs": 28,
+    "family": "Gaussian",
+    "spearman_rho": 0.8429627917336031,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "LiveCodeBench v6",
+    "n_obs": 27,
+    "family": "Gumbel",
+    "spearman_rho": 0.9418320610687022,
+    "lambda_L": 0.0,
+    "lambda_U": 0.835867703869531,
+    "tail_asymmetry": 0.835867703869531
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "Bullshit-Bench (Clear Pushback)",
+    "n_obs": 26,
+    "family": "Gaussian",
+    "spearman_rho": 0.26362777313110325,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "FrontierMath",
+    "n_obs": 27,
+    "family": "Gumbel",
+    "spearman_rho": 0.8373797623960727,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7007567799208834,
+    "tail_asymmetry": 0.7007567799208834
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "\u03c4\u00b2-bench Telecom",
+    "n_obs": 27,
+    "family": "Gumbel",
+    "spearman_rho": 0.8202232421000494,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7212015681498725,
+    "tail_asymmetry": 0.7212015681498725
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "SWE-bench Multilingual",
+    "n_obs": 27,
+    "family": "Gumbel",
+    "spearman_rho": 0.733272261539375,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6977119027915932,
+    "tail_asymmetry": 0.6977119027915932
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "MathVista",
+    "n_obs": 25,
+    "family": "Frank",
+    "spearman_rho": 0.9095284095358668,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "HMMT Nov 2025",
+    "n_obs": 25,
+    "family": "Gaussian",
+    "spearman_rho": 0.5222501353748493,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "IMO-AnswerBench",
+    "n_obs": 25,
+    "family": "Clayton",
+    "spearman_rho": 0.5795149966483595,
+    "lambda_L": 0.6239092841759158,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6239092841759158
+  },
+  {
+    "benchmark_1": "GPQA Diamond",
+    "benchmark_2": "Multi-IF",
+    "n_obs": 25,
+    "family": "BB7",
+    "spearman_rho": 0.8632429473014226,
+    "lambda_L": 0.8368770938927957,
+    "lambda_U": 0.7974990040454313,
+    "tail_asymmetry": 0.03937808984736446
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "MMLU-Pro",
+    "n_obs": 106,
+    "family": "Gumbel",
+    "spearman_rho": 0.7741233011351525,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6436382584546176,
+    "tail_asymmetry": 0.6436382584546176
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "IFEval",
+    "n_obs": 102,
+    "family": "Gumbel",
+    "spearman_rho": 0.6625257737520668,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5884828309094436,
+    "tail_asymmetry": 0.5884828309094436
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "MMLU",
+    "n_obs": 108,
+    "family": "Gumbel",
+    "spearman_rho": 0.7147599400934017,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6107671733751614,
+    "tail_asymmetry": 0.6107671733751614
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "GPQA Main (full set)",
+    "n_obs": 88,
+    "family": "Gaussian",
+    "spearman_rho": 0.7555123231138022,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "LiveCodeBench",
+    "n_obs": 91,
+    "family": "Gumbel",
+    "spearman_rho": 0.753999122329848,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6448694456083757,
+    "tail_asymmetry": 0.6448694456083757
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "MATH-500",
+    "n_obs": 85,
+    "family": "Gumbel",
+    "spearman_rho": 0.5058869673960191,
+    "lambda_L": 0.0,
+    "lambda_U": 0.4678142101364542,
+    "tail_asymmetry": 0.4678142101364542
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "SWE-bench Verified",
+    "n_obs": 70,
+    "family": "Gaussian",
+    "spearman_rho": 0.5739056228772045,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "AIME 2024",
+    "n_obs": 72,
+    "family": "Gaussian",
+    "spearman_rho": 0.5733426547891812,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "AIME 2025",
+    "n_obs": 63,
+    "family": "Gumbel",
+    "spearman_rho": 0.5258972572595285,
+    "lambda_L": 0.0,
+    "lambda_U": 0.45056958964735894,
+    "tail_asymmetry": 0.45056958964735894
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "SimpleQA",
+    "n_obs": 65,
+    "family": "Clayton",
+    "spearman_rho": 0.560971478527027,
+    "lambda_L": 0.6071373037965154,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6071373037965154
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "MATH",
+    "n_obs": 56,
+    "family": "Clayton",
+    "spearman_rho": 0.588523867118583,
+    "lambda_L": 0.5617323648006389,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.5617323648006389
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "GSM8K",
+    "n_obs": 53,
+    "family": "Student-t",
+    "spearman_rho": 0.48279964510404905,
+    "lambda_L": 0.42363726590253453,
+    "lambda_U": 0.42363726590253453,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "Codeforces Rating",
+    "n_obs": 51,
+    "family": "Gaussian",
+    "spearman_rho": 0.5853963703408718,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "MMMU",
+    "n_obs": 51,
+    "family": "Clayton",
+    "spearman_rho": 0.7349579247394581,
+    "lambda_L": 0.7349390080306368,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7349390080306368
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 37,
+    "family": "Gaussian",
+    "spearman_rho": 0.39112600729244484,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 53,
+    "family": "Clayton",
+    "spearman_rho": 0.44502733889738294,
+    "lambda_L": 0.489821000257734,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.489821000257734
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "MMMLU",
+    "n_obs": 40,
+    "family": "Clayton",
+    "spearman_rho": 0.7702972879784531,
+    "lambda_L": 0.7967005666595732,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7967005666595732
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "DROP",
+    "n_obs": 39,
+    "family": "Joe",
+    "spearman_rho": 0.2229873417721519,
+    "lambda_L": 0.0,
+    "lambda_U": 0.3667417327020499,
+    "tail_asymmetry": 0.3667417327020499
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 26,
+    "family": "Gaussian",
+    "spearman_rho": 0.6296162173718214,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 35,
+    "family": "Gaussian",
+    "spearman_rho": 0.5624577535921427,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 36,
+    "family": "Gaussian",
+    "spearman_rho": 0.3514322673862042,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 33,
+    "family": "Clayton",
+    "spearman_rho": 0.4686780056201639,
+    "lambda_L": 0.5498059086425449,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.5498059086425449
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "HLE Text",
+    "n_obs": 27,
+    "family": "Frank",
+    "spearman_rho": 0.4147412113099841,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "BigBench Hard (BBH)",
+    "n_obs": 28,
+    "family": "Joe",
+    "spearman_rho": 0.3756331315141256,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5282650086354226,
+    "tail_asymmetry": 0.5282650086354226
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "MT-AIME2024",
+    "n_obs": 32,
+    "family": "Student-t",
+    "spearman_rho": 0.44968832947348136,
+    "lambda_L": 0.4556995999434757,
+    "lambda_U": 0.4556995999434757,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "MMLU-Redux",
+    "n_obs": 35,
+    "family": "Gumbel",
+    "spearman_rho": 0.7889352937125057,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6918212916257134,
+    "tail_asymmetry": 0.6918212916257134
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 31,
+    "family": "Gaussian",
+    "spearman_rho": 0.5851942774079018,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "LiveBench",
+    "n_obs": 28,
+    "family": "Clayton",
+    "spearman_rho": 0.4175241277424868,
+    "lambda_L": 0.5163477223782365,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.5163477223782365
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "Tau-Bench Retail",
+    "n_obs": 26,
+    "family": "Gumbel",
+    "spearman_rho": 0.536577961553724,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5018746084486141,
+    "tail_asymmetry": 0.5018746084486141
+  },
+  {
+    "benchmark_1": "HumanEval",
+    "benchmark_2": "MathVista",
+    "n_obs": 25,
+    "family": "Gumbel",
+    "spearman_rho": 0.7669361046959199,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6792485784608355,
+    "tail_asymmetry": 0.6792485784608355
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "IFEval",
+    "n_obs": 100,
+    "family": "Gaussian",
+    "spearman_rho": 0.7039171052160939,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "MMLU",
+    "n_obs": 99,
+    "family": "Gumbel",
+    "spearman_rho": 0.8461362461650825,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7371437827858063,
+    "tail_asymmetry": 0.7371437827858063
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "GPQA Main (full set)",
+    "n_obs": 91,
+    "family": "Gumbel",
+    "spearman_rho": 0.9353233038691695,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8380277050691685,
+    "tail_asymmetry": 0.8380277050691685
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "LiveCodeBench",
+    "n_obs": 99,
+    "family": "Gumbel",
+    "spearman_rho": 0.8572480008479184,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7362824853244803,
+    "tail_asymmetry": 0.7362824853244803
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "MATH-500",
+    "n_obs": 83,
+    "family": "Gumbel",
+    "spearman_rho": 0.7161061648971276,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6262531596534413,
+    "tail_asymmetry": 0.6262531596534413
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "SWE-bench Verified",
+    "n_obs": 73,
+    "family": "Gumbel",
+    "spearman_rho": 0.8252299147014214,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7136318773999666,
+    "tail_asymmetry": 0.7136318773999666
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "AIME 2024",
+    "n_obs": 67,
+    "family": "Gaussian",
+    "spearman_rho": 0.7691824088039787,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "AIME 2025",
+    "n_obs": 65,
+    "family": "Clayton",
+    "spearman_rho": 0.7099763985168137,
+    "lambda_L": 0.7247865682264989,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7247865682264989
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "SimpleQA",
+    "n_obs": 71,
+    "family": "BB7",
+    "spearman_rho": 0.7739500889548522,
+    "lambda_L": 0.7912204576332414,
+    "lambda_U": 0.6902547911057717,
+    "tail_asymmetry": 0.10096566652746974
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "MATH",
+    "n_obs": 53,
+    "family": "Clayton",
+    "spearman_rho": 0.6501552356759807,
+    "lambda_L": 0.6660089269459764,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6660089269459764
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "GSM8K",
+    "n_obs": 50,
+    "family": "BB7",
+    "spearman_rho": 0.7436063703468803,
+    "lambda_L": 0.7880023316316406,
+    "lambda_U": 0.509579335823946,
+    "tail_asymmetry": 0.2784229958076946
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "Codeforces Rating",
+    "n_obs": 56,
+    "family": "Frank",
+    "spearman_rho": 0.6987076628256915,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "MMMU",
+    "n_obs": 50,
+    "family": "Gumbel",
+    "spearman_rho": 0.9169208601179637,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8163167440274743,
+    "tail_asymmetry": 0.8163167440274743
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 50,
+    "family": "Frank",
+    "spearman_rho": 0.716832563549668,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 50,
+    "family": "Joe",
+    "spearman_rho": 0.3373360969566746,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5615192420200559,
+    "tail_asymmetry": 0.5615192420200559
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "MMMLU",
+    "n_obs": 45,
+    "family": "Student-t",
+    "spearman_rho": 0.8590588843960211,
+    "lambda_L": 0.7077991241241661,
+    "lambda_U": 0.7077991241241661,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "DROP",
+    "n_obs": 32,
+    "family": "Gaussian",
+    "spearman_rho": 0.5955808421861373,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 37,
+    "family": "Frank",
+    "spearman_rho": 0.4143621228823945,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 37,
+    "family": "Frank",
+    "spearman_rho": 0.80863615489404,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 38,
+    "family": "Gaussian",
+    "spearman_rho": 0.7074506798323792,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 35,
+    "family": "Gaussian",
+    "spearman_rho": 0.7505961836679255,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "HLE Text",
+    "n_obs": 36,
+    "family": "Joe",
+    "spearman_rho": 0.48863141124252446,
+    "lambda_L": 0.0,
+    "lambda_U": 0.596124105294102,
+    "tail_asymmetry": 0.596124105294102
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 32,
+    "family": "Joe",
+    "spearman_rho": 0.6681034932292117,
+    "lambda_L": 0.0,
+    "lambda_U": 0.78446957723103,
+    "tail_asymmetry": 0.78446957723103
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "BrowseComp",
+    "n_obs": 31,
+    "family": "Gumbel",
+    "spearman_rho": 0.5714864630516462,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5026993624506935,
+    "tail_asymmetry": 0.5026993624506935
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "MT-AIME2024",
+    "n_obs": 26,
+    "family": "Gumbel",
+    "spearman_rho": 0.5483153834254504,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5273083343595613,
+    "tail_asymmetry": 0.5273083343595613
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "MMLU-Redux",
+    "n_obs": 35,
+    "family": "BB7",
+    "spearman_rho": 0.9242084708235662,
+    "lambda_L": 0.8786386436113847,
+    "lambda_U": 0.8775379300786397,
+    "tail_asymmetry": 0.0011007135327449902
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "SWE-bench Pro",
+    "n_obs": 26,
+    "family": "Joe",
+    "spearman_rho": 0.3284249656831673,
+    "lambda_L": 0.0,
+    "lambda_U": 0.47580019628764325,
+    "tail_asymmetry": 0.47580019628764325
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 29,
+    "family": "Student-t",
+    "spearman_rho": 0.7842267465581737,
+    "lambda_L": 0.6898431346522019,
+    "lambda_U": 0.6898431346522019,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "LiveBench",
+    "n_obs": 29,
+    "family": "Joe",
+    "spearman_rho": 0.47653074157371833,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6237484785729632,
+    "tail_asymmetry": 0.6237484785729632
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "Toolathlon",
+    "n_obs": 25,
+    "family": "Joe",
+    "spearman_rho": 0.5655621775517716,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6958013508600602,
+    "tail_asymmetry": 0.6958013508600602
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "IFBench",
+    "n_obs": 28,
+    "family": "Clayton",
+    "spearman_rho": 0.7839058510525174,
+    "lambda_L": 0.7948359970372296,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7948359970372296
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "Tau-Bench Retail",
+    "n_obs": 25,
+    "family": "Gumbel",
+    "spearman_rho": 0.6330575449116906,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6098390034648398,
+    "tail_asymmetry": 0.6098390034648398
+  },
+  {
+    "benchmark_1": "MMLU-Pro",
+    "benchmark_2": "LiveCodeBench v6",
+    "n_obs": 28,
+    "family": "Gumbel",
+    "spearman_rho": 0.7787211392354384,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6906146065456085,
+    "tail_asymmetry": 0.6906146065456085
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MMLU",
+    "n_obs": 107,
+    "family": "Gumbel",
+    "spearman_rho": 0.7942109507830499,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6614638199658693,
+    "tail_asymmetry": 0.6614638199658693
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "GPQA Main (full set)",
+    "n_obs": 75,
+    "family": "Gaussian",
+    "spearman_rho": 0.7045587171974316,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "LiveCodeBench",
+    "n_obs": 86,
+    "family": "Gaussian",
+    "spearman_rho": 0.6500672373365857,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MATH-500",
+    "n_obs": 88,
+    "family": "Gaussian",
+    "spearman_rho": 0.5411871990720579,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "SWE-bench Verified",
+    "n_obs": 67,
+    "family": "Gaussian",
+    "spearman_rho": 0.5895772666124249,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "AIME 2024",
+    "n_obs": 74,
+    "family": "Gumbel",
+    "spearman_rho": 0.5527912170800913,
+    "lambda_L": 0.0,
+    "lambda_U": 0.48512200055997345,
+    "tail_asymmetry": 0.48512200055997345
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "AIME 2025",
+    "n_obs": 67,
+    "family": "Gumbel",
+    "spearman_rho": 0.508852128856237,
+    "lambda_L": 0.0,
+    "lambda_U": 0.456818709106253,
+    "tail_asymmetry": 0.456818709106253
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "SimpleQA",
+    "n_obs": 64,
+    "family": "Gumbel",
+    "spearman_rho": 0.6588270325457449,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5707135563770454,
+    "tail_asymmetry": 0.5707135563770454
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MATH",
+    "n_obs": 52,
+    "family": "Clayton",
+    "spearman_rho": 0.6270629246567346,
+    "lambda_L": 0.6964683283691563,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6964683283691563
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "GSM8K",
+    "n_obs": 57,
+    "family": "Gumbel",
+    "spearman_rho": 0.7916497845627768,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7162703879516763,
+    "tail_asymmetry": 0.7162703879516763
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "Codeforces Rating",
+    "n_obs": 52,
+    "family": "Gaussian",
+    "spearman_rho": 0.603757890037701,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MMMU",
+    "n_obs": 49,
+    "family": "Gumbel",
+    "spearman_rho": 0.6135667651405889,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5588755331610922,
+    "tail_asymmetry": 0.5588755331610922
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 39,
+    "family": "Gaussian",
+    "spearman_rho": 0.5353418160703446,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 55,
+    "family": "Joe",
+    "spearman_rho": 0.5170752848875785,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6256708136230287,
+    "tail_asymmetry": 0.6256708136230287
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MMMLU",
+    "n_obs": 41,
+    "family": "Clayton",
+    "spearman_rho": 0.7890081274392913,
+    "lambda_L": 0.8008376063108342,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.8008376063108342
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "DROP",
+    "n_obs": 43,
+    "family": "Gaussian",
+    "spearman_rho": 0.6618330241459682,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 28,
+    "family": "Gaussian",
+    "spearman_rho": 0.6884080156083708,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 36,
+    "family": "Gaussian",
+    "spearman_rho": 0.7060084672135896,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 36,
+    "family": "Joe",
+    "spearman_rho": 0.5018022698634554,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6079370807818634,
+    "tail_asymmetry": 0.6079370807818634
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 34,
+    "family": "Clayton",
+    "spearman_rho": 0.6535199284430314,
+    "lambda_L": 0.6670704965585772,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6670704965585772
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "HLE Text",
+    "n_obs": 29,
+    "family": "Gaussian",
+    "spearman_rho": 0.5381487525139678,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 26,
+    "family": "Joe",
+    "spearman_rho": 0.5818368479143426,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7022179450106272,
+    "tail_asymmetry": 0.7022179450106272
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "BigBench Hard (BBH)",
+    "n_obs": 31,
+    "family": "Gumbel",
+    "spearman_rho": 0.7728465426306806,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6991848457877734,
+    "tail_asymmetry": 0.6991848457877734
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MT-AIME2024",
+    "n_obs": 34,
+    "family": "Joe",
+    "spearman_rho": 0.24447672839251866,
+    "lambda_L": 0.0,
+    "lambda_U": 0.4084772067997329,
+    "tail_asymmetry": 0.4084772067997329
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "MMLU-Redux",
+    "n_obs": 34,
+    "family": "Gumbel",
+    "spearman_rho": 0.7664322837052888,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6770661113228671,
+    "tail_asymmetry": 0.6770661113228671
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 32,
+    "family": "Gaussian",
+    "spearman_rho": 0.7217128307676068,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "TruthfulQA",
+    "n_obs": 29,
+    "family": "Gaussian",
+    "spearman_rho": 0.6913125156954312,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "LiveBench",
+    "n_obs": 28,
+    "family": "Joe",
+    "spearman_rho": 0.5373236996550589,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7040287102930527,
+    "tail_asymmetry": 0.7040287102930527
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "IFBench",
+    "n_obs": 27,
+    "family": "Clayton",
+    "spearman_rho": 0.8311450769137041,
+    "lambda_L": 0.8512727303281089,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.8512727303281089
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "Tau-Bench Retail",
+    "n_obs": 26,
+    "family": "Joe",
+    "spearman_rho": 0.7212722298221612,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7706228645076438,
+    "tail_asymmetry": 0.7706228645076438
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "AlpacaEval 2.0 (LC-winrate)",
+    "n_obs": 28,
+    "family": "Joe",
+    "spearman_rho": 0.5991238576416443,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7291511024258648,
+    "tail_asymmetry": 0.7291511024258648
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "PopQA",
+    "n_obs": 27,
+    "family": "Gumbel",
+    "spearman_rho": 0.6987474570659313,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6441259654557687,
+    "tail_asymmetry": 0.6441259654557687
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "Safety (OLMES suite)",
+    "n_obs": 26,
+    "family": "Joe",
+    "spearman_rho": 0.39733061875068404,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5999190503316745,
+    "tail_asymmetry": 0.5999190503316745
+  },
+  {
+    "benchmark_1": "IFEval",
+    "benchmark_2": "Multi-IF",
+    "n_obs": 25,
+    "family": "Clayton",
+    "spearman_rho": 0.83801462100808,
+    "lambda_L": 0.8389069450365664,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.8389069450365664
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "GPQA Main (full set)",
+    "n_obs": 84,
+    "family": "Gumbel",
+    "spearman_rho": 0.8439115588095906,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7479057186675981,
+    "tail_asymmetry": 0.7479057186675981
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "LiveCodeBench",
+    "n_obs": 83,
+    "family": "Gaussian",
+    "spearman_rho": 0.7294715617113693,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "MATH-500",
+    "n_obs": 76,
+    "family": "Gaussian",
+    "spearman_rho": 0.5961194427572656,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "SWE-bench Verified",
+    "n_obs": 65,
+    "family": "Gumbel",
+    "spearman_rho": 0.5853880790727914,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5011107591045791,
+    "tail_asymmetry": 0.5011107591045791
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "AIME 2024",
+    "n_obs": 68,
+    "family": "Gaussian",
+    "spearman_rho": 0.5238418061784003,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "AIME 2025",
+    "n_obs": 57,
+    "family": "Gumbel",
+    "spearman_rho": 0.4804131895694591,
+    "lambda_L": 0.0,
+    "lambda_U": 0.424033625523381,
+    "tail_asymmetry": 0.424033625523381
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "SimpleQA",
+    "n_obs": 66,
+    "family": "Clayton",
+    "spearman_rho": 0.7182960751579062,
+    "lambda_L": 0.7131283605789526,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7131283605789526
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "MATH",
+    "n_obs": 64,
+    "family": "Gumbel",
+    "spearman_rho": 0.7770692617949866,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6804479196475857,
+    "tail_asymmetry": 0.6804479196475857
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "GSM8K",
+    "n_obs": 61,
+    "family": "BB7",
+    "spearman_rho": 0.856045381215334,
+    "lambda_L": 0.8038531747438442,
+    "lambda_U": 0.7396275971820618,
+    "tail_asymmetry": 0.06422557756178238
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "Codeforces Rating",
+    "n_obs": 46,
+    "family": "Gaussian",
+    "spearman_rho": 0.579275496877284,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "MMMU",
+    "n_obs": 52,
+    "family": "Gumbel",
+    "spearman_rho": 0.7991671423848439,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6729520273239666,
+    "tail_asymmetry": 0.6729520273239666
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 38,
+    "family": "Gaussian",
+    "spearman_rho": 0.5158927598813472,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 50,
+    "family": "Joe",
+    "spearman_rho": 0.3502713622614653,
+    "lambda_L": 0.0,
+    "lambda_U": 0.4916556352558379,
+    "tail_asymmetry": 0.4916556352558379
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "MMMLU",
+    "n_obs": 41,
+    "family": "BB7",
+    "spearman_rho": 0.8312188392093947,
+    "lambda_L": 0.850455931424944,
+    "lambda_U": 0.6116779202821345,
+    "tail_asymmetry": 0.2387780111428095
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "DROP",
+    "n_obs": 48,
+    "family": "Gumbel",
+    "spearman_rho": 0.7618336771251764,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6851718581348092,
+    "tail_asymmetry": 0.6851718581348092
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 27,
+    "family": "Gumbel",
+    "spearman_rho": 0.4817886786196995,
+    "lambda_L": 0.0,
+    "lambda_U": 0.505076530042873,
+    "tail_asymmetry": 0.505076530042873
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 37,
+    "family": "Gaussian",
+    "spearman_rho": 0.6084276752222256,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 34,
+    "family": "Clayton",
+    "spearman_rho": 0.3427108509960087,
+    "lambda_L": 0.28390261344514917,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.28390261344514917
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 35,
+    "family": "Clayton",
+    "spearman_rho": 0.5650750333961405,
+    "lambda_L": 0.6123896517909617,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6123896517909617
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "HLE Text",
+    "n_obs": 27,
+    "family": "Gaussian",
+    "spearman_rho": 0.5653575142231436,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 25,
+    "family": "Joe",
+    "spearman_rho": 0.5316775042930906,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7114549436775954,
+    "tail_asymmetry": 0.7114549436775954
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "BigBench Hard (BBH)",
+    "n_obs": 37,
+    "family": "Gaussian",
+    "spearman_rho": 0.9006402655916528,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "MT-AIME2024",
+    "n_obs": 28,
+    "family": "Gumbel",
+    "spearman_rho": 0.29869952367486224,
+    "lambda_L": 0.0,
+    "lambda_U": 0.34779457194437047,
+    "tail_asymmetry": 0.34779457194437047
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "MMLU-Redux",
+    "n_obs": 32,
+    "family": "Gumbel",
+    "spearman_rho": 0.8089867339598552,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7196064842307455,
+    "tail_asymmetry": 0.7196064842307455
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 32,
+    "family": "Gaussian",
+    "spearman_rho": 0.5741032566224196,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "CharXiv Reasoning",
+    "n_obs": 25,
+    "family": "Clayton",
+    "spearman_rho": 0.5390106348189626,
+    "lambda_L": 0.6504809046442434,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6504809046442434
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "TruthfulQA",
+    "n_obs": 32,
+    "family": "Clayton",
+    "spearman_rho": 0.7299056029189033,
+    "lambda_L": 0.7166411129666252,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7166411129666252
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "LiveBench",
+    "n_obs": 26,
+    "family": "Clayton",
+    "spearman_rho": 0.4476386299103314,
+    "lambda_L": 0.45604092006747937,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.45604092006747937
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "Tau-Bench Retail",
+    "n_obs": 27,
+    "family": "Joe",
+    "spearman_rho": 0.6251931814281236,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7329751848418407,
+    "tail_asymmetry": 0.7329751848418407
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "AlpacaEval 2.0 (LC-winrate)",
+    "n_obs": 28,
+    "family": "Gumbel",
+    "spearman_rho": 0.7615658648339497,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6878457850268542,
+    "tail_asymmetry": 0.6878457850268542
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "PopQA",
+    "n_obs": 27,
+    "family": "Gaussian",
+    "spearman_rho": 0.7303816793893129,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "Safety (OLMES suite)",
+    "n_obs": 26,
+    "family": "Gaussian",
+    "spearman_rho": 0.13134941187484275,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMLU",
+    "benchmark_2": "MathVista",
+    "n_obs": 25,
+    "family": "Gaussian",
+    "spearman_rho": 0.7813282146679541,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "LiveCodeBench",
+    "n_obs": 77,
+    "family": "Frank",
+    "spearman_rho": 0.9079543332484966,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "MATH-500",
+    "n_obs": 60,
+    "family": "Gumbel",
+    "spearman_rho": 0.7433247270206389,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6402699491033066,
+    "tail_asymmetry": 0.6402699491033066
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "SWE-bench Verified",
+    "n_obs": 67,
+    "family": "Gaussian",
+    "spearman_rho": 0.9076585378118351,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "AIME 2024",
+    "n_obs": 54,
+    "family": "Gumbel",
+    "spearman_rho": 0.7339395331118607,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6570253402998414,
+    "tail_asymmetry": 0.6570253402998414
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "AIME 2025",
+    "n_obs": 53,
+    "family": "Student-t",
+    "spearman_rho": 0.6865409854428237,
+    "lambda_L": 0.5865369147443658,
+    "lambda_U": 0.5865369147443658,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "SimpleQA",
+    "n_obs": 56,
+    "family": "BB7",
+    "spearman_rho": 0.7971145821493772,
+    "lambda_L": 0.7237766571823785,
+    "lambda_U": 0.7183428438851096,
+    "tail_asymmetry": 0.005433813297268886
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "MATH",
+    "n_obs": 52,
+    "family": "Frank",
+    "spearman_rho": 0.7307175033153224,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "GSM8K",
+    "n_obs": 40,
+    "family": "Gaussian",
+    "spearman_rho": 0.7422685454699719,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "Codeforces Rating",
+    "n_obs": 45,
+    "family": "Gaussian",
+    "spearman_rho": 0.7990314011287459,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "MMMU",
+    "n_obs": 51,
+    "family": "Gumbel",
+    "spearman_rho": 0.9125082040040178,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8107211647229116,
+    "tail_asymmetry": 0.8107211647229116
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 47,
+    "family": "Gumbel",
+    "spearman_rho": 0.8921662486588714,
+    "lambda_L": 0.0,
+    "lambda_U": 0.800586412699744,
+    "tail_asymmetry": 0.800586412699744
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 39,
+    "family": "Clayton",
+    "spearman_rho": 0.4531835229210153,
+    "lambda_L": 0.4484032893535312,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.4484032893535312
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "MMMLU",
+    "n_obs": 36,
+    "family": "Gaussian",
+    "spearman_rho": 0.9060870486245345,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "DROP",
+    "n_obs": 30,
+    "family": "Gumbel",
+    "spearman_rho": 0.5203650122412644,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5087294827135731,
+    "tail_asymmetry": 0.5087294827135731
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 38,
+    "family": "Clayton",
+    "spearman_rho": 0.7891279462636676,
+    "lambda_L": 0.7535281219997042,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7535281219997042
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 39,
+    "family": "Gumbel",
+    "spearman_rho": 0.8913421697910374,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7868326477416321,
+    "tail_asymmetry": 0.7868326477416321
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 36,
+    "family": "Joe",
+    "spearman_rho": 0.7893144659568415,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8003201019519213,
+    "tail_asymmetry": 0.8003201019519213
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 36,
+    "family": "Gaussian",
+    "spearman_rho": 0.9034043393441622,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "HLE Text",
+    "n_obs": 41,
+    "family": "Gumbel",
+    "spearman_rho": 0.8406744415903734,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7514264584943906,
+    "tail_asymmetry": 0.7514264584943906
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 31,
+    "family": "Joe",
+    "spearman_rho": 0.7896701662937834,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7996465355269378,
+    "tail_asymmetry": 0.7996465355269378
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "BrowseComp",
+    "n_obs": 32,
+    "family": "Gumbel",
+    "spearman_rho": 0.8232598229787604,
+    "lambda_L": 0.0,
+    "lambda_U": 0.723580875540037,
+    "tail_asymmetry": 0.723580875540037
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "MT-AIME2024",
+    "n_obs": 28,
+    "family": "Joe",
+    "spearman_rho": 0.4270648216988207,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5742902320703962,
+    "tail_asymmetry": 0.5742902320703962
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "SWE-bench Pro",
+    "n_obs": 29,
+    "family": "Gumbel",
+    "spearman_rho": 0.7092321451234453,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6399553794816255,
+    "tail_asymmetry": 0.6399553794816255
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 28,
+    "family": "Gaussian",
+    "spearman_rho": 0.9282781275663838,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "CharXiv Reasoning",
+    "n_obs": 28,
+    "family": "Gumbel",
+    "spearman_rho": 0.8415001368738025,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7596523044543682,
+    "tail_asymmetry": 0.7596523044543682
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "Tau-Bench Retail",
+    "n_obs": 25,
+    "family": "Gaussian",
+    "spearman_rho": 0.869155297983619,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "FrontierMath",
+    "n_obs": 25,
+    "family": "Gumbel",
+    "spearman_rho": 0.8422470180838784,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6927131486090705,
+    "tail_asymmetry": 0.6927131486090705
+  },
+  {
+    "benchmark_1": "GPQA Main (full set)",
+    "benchmark_2": "\u03c4\u00b2-bench Telecom",
+    "n_obs": 26,
+    "family": "Gumbel",
+    "spearman_rho": 0.8398359256798185,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7379861631100466,
+    "tail_asymmetry": 0.7379861631100466
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "MATH-500",
+    "n_obs": 81,
+    "family": "Gumbel",
+    "spearman_rho": 0.8089121747364326,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6882577144749145,
+    "tail_asymmetry": 0.6882577144749145
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "SWE-bench Verified",
+    "n_obs": 72,
+    "family": "Gumbel",
+    "spearman_rho": 0.8387174590472535,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7310158023613624,
+    "tail_asymmetry": 0.7310158023613624
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "AIME 2024",
+    "n_obs": 72,
+    "family": "Frank",
+    "spearman_rho": 0.8949475812035685,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "AIME 2025",
+    "n_obs": 67,
+    "family": "Joe",
+    "spearman_rho": 0.8592310993133842,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8631044740175846,
+    "tail_asymmetry": 0.8631044740175846
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "SimpleQA",
+    "n_obs": 67,
+    "family": "Gumbel",
+    "spearman_rho": 0.7601936057173224,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6746375192950163,
+    "tail_asymmetry": 0.6746375192950163
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "MATH",
+    "n_obs": 36,
+    "family": "Joe",
+    "spearman_rho": 0.5354269912625323,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6382690730149405,
+    "tail_asymmetry": 0.6382690730149405
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "GSM8K",
+    "n_obs": 33,
+    "family": "Gumbel",
+    "spearman_rho": 0.5797610114668107,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5937209330092965,
+    "tail_asymmetry": 0.5937209330092965
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "Codeforces Rating",
+    "n_obs": 64,
+    "family": "Gaussian",
+    "spearman_rho": 0.8489622117954453,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "MMMU",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "spearman_rho": 0.9125836053617722,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8214625225470416,
+    "tail_asymmetry": 0.8214625225470416
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 46,
+    "family": "Gumbel",
+    "spearman_rho": 0.7821501264417442,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7122574461886515,
+    "tail_asymmetry": 0.7122574461886515
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 43,
+    "family": "Clayton",
+    "spearman_rho": 0.4757805719402499,
+    "lambda_L": 0.5389205538839963,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.5389205538839963
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "MMMLU",
+    "n_obs": 41,
+    "family": "BB7",
+    "spearman_rho": 0.6816835160073543,
+    "lambda_L": 0.7511878552114026,
+    "lambda_U": 0.5812155823325718,
+    "tail_asymmetry": 0.16997227287883088
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 35,
+    "family": "Clayton",
+    "spearman_rho": 0.6695158839126583,
+    "lambda_L": 0.6327521036114286,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6327521036114286
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 34,
+    "family": "Gaussian",
+    "spearman_rho": 0.8167293010977379,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 38,
+    "family": "Gumbel",
+    "spearman_rho": 0.9221930400525279,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8090838711594741,
+    "tail_asymmetry": 0.8090838711594741
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 33,
+    "family": "Gumbel",
+    "spearman_rho": 0.7556818181818182,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6884126026073312,
+    "tail_asymmetry": 0.6884126026073312
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "HLE Text",
+    "n_obs": 32,
+    "family": "Clayton",
+    "spearman_rho": 0.7066911090742438,
+    "lambda_L": 0.7008945118288972,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7008945118288972
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 28,
+    "family": "Gumbel",
+    "spearman_rho": 0.7977005201204491,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6808010322748383,
+    "tail_asymmetry": 0.6808010322748383
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "BrowseComp",
+    "n_obs": 29,
+    "family": "Gaussian",
+    "spearman_rho": 0.8252032520325204,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "MT-AIME2024",
+    "n_obs": 30,
+    "family": "Gaussian",
+    "spearman_rho": 0.583546789715632,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "MMLU-Redux",
+    "n_obs": 32,
+    "family": "Student-t",
+    "spearman_rho": 0.8696608762075658,
+    "lambda_L": 0.7042567517266073,
+    "lambda_U": 0.7042567517266073,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 27,
+    "family": "BB7",
+    "spearman_rho": 0.7650740434122552,
+    "lambda_L": 0.7858832607389741,
+    "lambda_U": 0.7157879926537298,
+    "tail_asymmetry": 0.07009526808524424
+  },
+  {
+    "benchmark_1": "LiveCodeBench",
+    "benchmark_2": "LiveBench",
+    "n_obs": 27,
+    "family": "Joe",
+    "spearman_rho": 0.4412213946143653,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5728999757788413,
+    "tail_asymmetry": 0.5728999757788413
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "SWE-bench Verified",
+    "n_obs": 63,
+    "family": "Gumbel",
+    "spearman_rho": 0.5649534044940963,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5077779997266025,
+    "tail_asymmetry": 0.5077779997266025
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "AIME 2024",
+    "n_obs": 70,
+    "family": "Gumbel",
+    "spearman_rho": 0.8084051851632659,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7434535116837437,
+    "tail_asymmetry": 0.7434535116837437
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "AIME 2025",
+    "n_obs": 65,
+    "family": "Joe",
+    "spearman_rho": 0.6664741101036012,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7795245636084887,
+    "tail_asymmetry": 0.7795245636084887
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "SimpleQA",
+    "n_obs": 58,
+    "family": "Clayton",
+    "spearman_rho": 0.5302258555097545,
+    "lambda_L": 0.5725864929063696,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.5725864929063696
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "MATH",
+    "n_obs": 25,
+    "family": "Gumbel",
+    "spearman_rho": 0.507408129462653,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5193703254272546,
+    "tail_asymmetry": 0.5193703254272546
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "GSM8K",
+    "n_obs": 32,
+    "family": "Clayton",
+    "spearman_rho": 0.5989545524063118,
+    "lambda_L": 0.6060621518086785,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6060621518086785
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "Codeforces Rating",
+    "n_obs": 55,
+    "family": "Gaussian",
+    "spearman_rho": 0.8347185695410142,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "MMMU",
+    "n_obs": 37,
+    "family": "Gumbel",
+    "spearman_rho": 0.8205219512060241,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7365080711184244,
+    "tail_asymmetry": 0.7365080711184244
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 36,
+    "family": "Joe",
+    "spearman_rho": 0.353955875600254,
+    "lambda_L": 0.0,
+    "lambda_U": 0.49745919540365136,
+    "tail_asymmetry": 0.49745919540365136
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 50,
+    "family": "Frank",
+    "spearman_rho": 0.4060428592470536,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "MMMLU",
+    "n_obs": 35,
+    "family": "Gaussian",
+    "spearman_rho": 0.2695746757424741,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 26,
+    "family": "Joe",
+    "spearman_rho": 0.05447730064551601,
+    "lambda_L": 0.0,
+    "lambda_U": 0.19367885328320722,
+    "tail_asymmetry": 0.19367885328320722
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 33,
+    "family": "Joe",
+    "spearman_rho": 0.49899295768309465,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6347081993577741,
+    "tail_asymmetry": 0.6347081993577741
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 35,
+    "family": "Gaussian",
+    "spearman_rho": 0.6374437140967331,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 32,
+    "family": "Clayton",
+    "spearman_rho": 0.42274601560559555,
+    "lambda_L": 0.47480101179223755,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.47480101179223755
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "HLE Text",
+    "n_obs": 25,
+    "family": "Joe",
+    "spearman_rho": 0.17002692314196038,
+    "lambda_L": 0.0,
+    "lambda_U": 0.3907294961936121,
+    "tail_asymmetry": 0.3907294961936121
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "MT-AIME2024",
+    "n_obs": 31,
+    "family": "Clayton",
+    "spearman_rho": 0.3956587602193517,
+    "lambda_L": 0.5235538794697607,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.5235538794697607
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "MMLU-Redux",
+    "n_obs": 32,
+    "family": "Frank",
+    "spearman_rho": 0.6431027314172009,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 27,
+    "family": "Joe",
+    "spearman_rho": 0.6525765920959423,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7842692262970268,
+    "tail_asymmetry": 0.7842692262970268
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "LiveBench",
+    "n_obs": 25,
+    "family": "Clayton",
+    "spearman_rho": 0.6533056628639963,
+    "lambda_L": 0.663222604983796,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.663222604983796
+  },
+  {
+    "benchmark_1": "MATH-500",
+    "benchmark_2": "IFBench",
+    "n_obs": 25,
+    "family": "Gumbel",
+    "spearman_rho": 0.694833556409137,
+    "lambda_L": 0.0,
+    "lambda_U": 0.659950977539788,
+    "tail_asymmetry": 0.659950977539788
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "AIME 2024",
+    "n_obs": 54,
+    "family": "Gaussian",
+    "spearman_rho": 0.7731770202452107,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "AIME 2025",
+    "n_obs": 57,
+    "family": "Gumbel",
+    "spearman_rho": 0.6279555959127352,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5462827684988119,
+    "tail_asymmetry": 0.5462827684988119
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "SimpleQA",
+    "n_obs": 60,
+    "family": "Gumbel",
+    "spearman_rho": 0.6001806852238566,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5391077768978632,
+    "tail_asymmetry": 0.5391077768978632
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "Codeforces Rating",
+    "n_obs": 45,
+    "family": "Gumbel",
+    "spearman_rho": 0.5909660002286778,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5041974511678762,
+    "tail_asymmetry": 0.5041974511678762
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "MMMU",
+    "n_obs": 43,
+    "family": "Clayton",
+    "spearman_rho": 0.7463746415164039,
+    "lambda_L": 0.7607998697889182,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7607998697889182
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 54,
+    "family": "Gumbel",
+    "spearman_rho": 0.8250295429420959,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7326644603101311,
+    "tail_asymmetry": 0.7326644603101311
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 32,
+    "family": "Joe",
+    "spearman_rho": -0.02219165753667871,
+    "lambda_L": 0.0,
+    "lambda_U": 0.08051147730793495,
+    "tail_asymmetry": 0.08051147730793495
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "MMMLU",
+    "n_obs": 36,
+    "family": "Gumbel",
+    "spearman_rho": 0.7697857556208965,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6638153947796064,
+    "tail_asymmetry": 0.6638153947796064
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 41,
+    "family": "Student-t",
+    "spearman_rho": 0.7605106151309302,
+    "lambda_L": 0.6869749195488594,
+    "lambda_U": 0.6869749195488594,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 39,
+    "family": "Gaussian",
+    "spearman_rho": 0.8399988800245669,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 38,
+    "family": "Gumbel",
+    "spearman_rho": 0.7263774153237048,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5941416604913594,
+    "tail_asymmetry": 0.5941416604913594
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 37,
+    "family": "Gaussian",
+    "spearman_rho": 0.88809862494073,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "HLE Text",
+    "n_obs": 40,
+    "family": "Gumbel",
+    "spearman_rho": 0.8317853457172343,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7292931224913399,
+    "tail_asymmetry": 0.7292931224913399
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 30,
+    "family": "Joe",
+    "spearman_rho": 0.6447880783029699,
+    "lambda_L": 0.0,
+    "lambda_U": 0.746590943780034,
+    "tail_asymmetry": 0.746590943780034
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "BrowseComp",
+    "n_obs": 34,
+    "family": "Student-t",
+    "spearman_rho": 0.7701360232309339,
+    "lambda_L": 0.6306164818925571,
+    "lambda_U": 0.6306164818925571,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "SWE-bench Pro",
+    "n_obs": 30,
+    "family": "Student-t",
+    "spearman_rho": 0.7237310954046707,
+    "lambda_L": 0.6821389664387999,
+    "lambda_U": 0.6821389664387999,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 33,
+    "family": "Gaussian",
+    "spearman_rho": 0.8568324548476455,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "CharXiv Reasoning",
+    "n_obs": 29,
+    "family": "Joe",
+    "spearman_rho": 0.7205320906975249,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7825109598115803,
+    "tail_asymmetry": 0.7825109598115803
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "Toolathlon",
+    "n_obs": 25,
+    "family": "Student-t",
+    "spearman_rho": 0.618433723205524,
+    "lambda_L": 0.6054224615655441,
+    "lambda_U": 0.6054224615655441,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "Tau-Bench Retail",
+    "n_obs": 27,
+    "family": "Gaussian",
+    "spearman_rho": 0.8774233043762256,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "LiveCodeBench v6",
+    "n_obs": 25,
+    "family": "Gumbel",
+    "spearman_rho": 0.7801500432831038,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7189763050352564,
+    "tail_asymmetry": 0.7189763050352564
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "FrontierMath",
+    "n_obs": 25,
+    "family": "Joe",
+    "spearman_rho": 0.6271643403828153,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7375456018448552,
+    "tail_asymmetry": 0.7375456018448552
+  },
+  {
+    "benchmark_1": "SWE-bench Verified",
+    "benchmark_2": "SWE-bench Multilingual",
+    "n_obs": 25,
+    "family": "BB7",
+    "spearman_rho": 0.8941900731050404,
+    "lambda_L": 0.8750291848433236,
+    "lambda_U": 0.8775379300786397,
+    "tail_asymmetry": 0.002508745235316079
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "AIME 2025",
+    "n_obs": 56,
+    "family": "Gumbel",
+    "spearman_rho": 0.8955698386964918,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7955334660672448,
+    "tail_asymmetry": 0.7955334660672448
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "SimpleQA",
+    "n_obs": 50,
+    "family": "Gaussian",
+    "spearman_rho": 0.59752582341356,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "Codeforces Rating",
+    "n_obs": 53,
+    "family": "Gumbel",
+    "spearman_rho": 0.9157190103421068,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8296493570951227,
+    "tail_asymmetry": 0.8296493570951227
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "MMMU",
+    "n_obs": 33,
+    "family": "Frank",
+    "spearman_rho": 0.9002591788005272,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 34,
+    "family": "Gaussian",
+    "spearman_rho": 0.8144779942417046,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 44,
+    "family": "Gaussian",
+    "spearman_rho": 0.3840569495348181,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "MMMLU",
+    "n_obs": 36,
+    "family": "Gaussian",
+    "spearman_rho": 0.5785815420260007,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 32,
+    "family": "Gaussian",
+    "spearman_rho": 0.8461873233735321,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 36,
+    "family": "Frank",
+    "spearman_rho": 0.9204326299743928,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 32,
+    "family": "Gumbel",
+    "spearman_rho": 0.7775231754268025,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6824974806725586,
+    "tail_asymmetry": 0.6824974806725586
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "HLE Text",
+    "n_obs": 26,
+    "family": "Gaussian",
+    "spearman_rho": 0.6631309684409126,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "MT-AIME2024",
+    "n_obs": 37,
+    "family": "Gumbel",
+    "spearman_rho": 0.7132353392599993,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6692552110052128,
+    "tail_asymmetry": 0.6692552110052128
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "MMLU-Redux",
+    "n_obs": 31,
+    "family": "Frank",
+    "spearman_rho": 0.8693021379588545,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AIME 2024",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 32,
+    "family": "Gumbel",
+    "spearman_rho": 0.7773193986065274,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6815209720002644,
+    "tail_asymmetry": 0.6815209720002644
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "SimpleQA",
+    "n_obs": 43,
+    "family": "Student-t",
+    "spearman_rho": 0.44848308861267583,
+    "lambda_L": 0.4209940978255865,
+    "lambda_U": 0.4209940978255865,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "Codeforces Rating",
+    "n_obs": 52,
+    "family": "BB7",
+    "spearman_rho": 0.7985141546922406,
+    "lambda_L": 0.6990890971800215,
+    "lambda_U": 0.7063347462759726,
+    "tail_asymmetry": 0.0072456490959510456
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "MMMU",
+    "n_obs": 33,
+    "family": "Gumbel",
+    "spearman_rho": 0.6738312497779911,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6668845936624992,
+    "tail_asymmetry": 0.6668845936624992
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 45,
+    "family": "Clayton",
+    "spearman_rho": 0.7565804649139254,
+    "lambda_L": 0.7890414697305799,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7890414697305799
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 30,
+    "family": "Joe",
+    "spearman_rho": 0.6449388209121245,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7488691499360369,
+    "tail_asymmetry": 0.7488691499360369
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "MMMLU",
+    "n_obs": 37,
+    "family": "Joe",
+    "spearman_rho": 0.5952917499169306,
+    "lambda_L": 0.0,
+    "lambda_U": 0.676903735854123,
+    "tail_asymmetry": 0.676903735854123
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 33,
+    "family": "Joe",
+    "spearman_rho": 0.3614548494983278,
+    "lambda_L": 0.0,
+    "lambda_U": 0.4698073188923988,
+    "tail_asymmetry": 0.4698073188923988
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 32,
+    "family": "Gumbel",
+    "spearman_rho": 0.7955983527261443,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7052111889039205,
+    "tail_asymmetry": 0.7052111889039205
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "spearman_rho": 0.915353134995145,
+    "lambda_L": 0.0,
+    "lambda_U": 0.791967823162739,
+    "tail_asymmetry": 0.791967823162739
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 33,
+    "family": "Gaussian",
+    "spearman_rho": 0.7760969738309828,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "HLE Text",
+    "n_obs": 32,
+    "family": "Joe",
+    "spearman_rho": 0.6442387046959258,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7350380891001667,
+    "tail_asymmetry": 0.7350380891001667
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "BrowseComp",
+    "n_obs": 28,
+    "family": "Gumbel",
+    "spearman_rho": 0.5919485642544049,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5730925585681488,
+    "tail_asymmetry": 0.5730925585681488
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "MT-AIME2024",
+    "n_obs": 28,
+    "family": "Gaussian",
+    "spearman_rho": 0.8022444306686204,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AIME 2025",
+    "benchmark_2": "IFBench",
+    "n_obs": 28,
+    "family": "Clayton",
+    "spearman_rho": 0.789322389325965,
+    "lambda_L": 0.8109259191351489,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.8109259191351489
+  },
+  {
+    "benchmark_1": "SimpleQA",
+    "benchmark_2": "MATH",
+    "n_obs": 31,
+    "family": "Gaussian",
+    "spearman_rho": 0.5221863654699477,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SimpleQA",
+    "benchmark_2": "Codeforces Rating",
+    "n_obs": 38,
+    "family": "Clayton",
+    "spearman_rho": 0.42351724647005695,
+    "lambda_L": 0.41360908500731774,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.41360908500731774
+  },
+  {
+    "benchmark_1": "SimpleQA",
+    "benchmark_2": "MMMU",
+    "n_obs": 44,
+    "family": "Joe",
+    "spearman_rho": 0.580457542043445,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7171187855408789,
+    "tail_asymmetry": 0.7171187855408789
+  },
+  {
+    "benchmark_1": "SimpleQA",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 39,
+    "family": "Clayton",
+    "spearman_rho": 0.6956743720673237,
+    "lambda_L": 0.6974847938145425,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6974847938145425
+  },
+  {
+    "benchmark_1": "SimpleQA",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 33,
+    "family": "Gaussian",
+    "spearman_rho": 0.1484453380821912,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SimpleQA",
+    "benchmark_2": "MMMLU",
+    "n_obs": 28,
+    "family": "Gumbel",
+    "spearman_rho": 0.7868201197286165,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7143403729498421,
+    "tail_asymmetry": 0.7143403729498421
+  },
+  {
+    "benchmark_1": "SimpleQA",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 26,
+    "family": "Gaussian",
+    "spearman_rho": 0.6289385036917288,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SimpleQA",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 34,
+    "family": "Joe",
+    "spearman_rho": 0.6950535015292045,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7385491154634365,
+    "tail_asymmetry": 0.7385491154634365
+  },
+  {
+    "benchmark_1": "SimpleQA",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 29,
+    "family": "Gaussian",
+    "spearman_rho": 0.6564773833919818,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SimpleQA",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 32,
+    "family": "Joe",
+    "spearman_rho": 0.657559434638122,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7397877324523114,
+    "tail_asymmetry": 0.7397877324523114
+  },
+  {
+    "benchmark_1": "SimpleQA",
+    "benchmark_2": "HLE Text",
+    "n_obs": 27,
+    "family": "Gaussian",
+    "spearman_rho": 0.6203421181239004,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "SimpleQA",
+    "benchmark_2": "Aider Polyglot (diff mode)",
+    "n_obs": 28,
+    "family": "Joe",
+    "spearman_rho": 0.650054764512596,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7697511252633205,
+    "tail_asymmetry": 0.7697511252633205
+  },
+  {
+    "benchmark_1": "MATH",
+    "benchmark_2": "GSM8K",
+    "n_obs": 50,
+    "family": "Gumbel",
+    "spearman_rho": 0.7454611028397079,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6654310965553136,
+    "tail_asymmetry": 0.6654310965553136
+  },
+  {
+    "benchmark_1": "MATH",
+    "benchmark_2": "DROP",
+    "n_obs": 42,
+    "family": "Clayton",
+    "spearman_rho": 0.5157212334599938,
+    "lambda_L": 0.531941399611034,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.531941399611034
+  },
+  {
+    "benchmark_1": "MATH",
+    "benchmark_2": "BigBench Hard (BBH)",
+    "n_obs": 36,
+    "family": "Gumbel",
+    "spearman_rho": 0.8183807439824944,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7431008893397222,
+    "tail_asymmetry": 0.7431008893397222
+  },
+  {
+    "benchmark_1": "MATH",
+    "benchmark_2": "TruthfulQA",
+    "n_obs": 30,
+    "family": "Clayton",
+    "spearman_rho": 0.6631813125695216,
+    "lambda_L": 0.5974227270381537,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.5974227270381537
+  },
+  {
+    "benchmark_1": "MATH",
+    "benchmark_2": "AlpacaEval 2.0 (LC-winrate)",
+    "n_obs": 26,
+    "family": "BB7",
+    "spearman_rho": 0.7675213675213675,
+    "lambda_L": 0.7828332505355259,
+    "lambda_U": 0.6369554494728098,
+    "tail_asymmetry": 0.14587780106271608
+  },
+  {
+    "benchmark_1": "MATH",
+    "benchmark_2": "PopQA",
+    "n_obs": 25,
+    "family": "Clayton",
+    "spearman_rho": 0.5569230769230769,
+    "lambda_L": 0.5755910337050419,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.5755910337050419
+  },
+  {
+    "benchmark_1": "MATH",
+    "benchmark_2": "Safety (OLMES suite)",
+    "n_obs": 26,
+    "family": "Joe",
+    "spearman_rho": 0.09302326125405298,
+    "lambda_L": 0.0,
+    "lambda_U": 0.35790893103359966,
+    "tail_asymmetry": 0.35790893103359966
+  },
+  {
+    "benchmark_1": "GSM8K",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 27,
+    "family": "Gaussian",
+    "spearman_rho": 0.43548633886827115,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GSM8K",
+    "benchmark_2": "DROP",
+    "n_obs": 40,
+    "family": "Gumbel",
+    "spearman_rho": 0.8154647622703157,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7230765441672036,
+    "tail_asymmetry": 0.7230765441672036
+  },
+  {
+    "benchmark_1": "GSM8K",
+    "benchmark_2": "BigBench Hard (BBH)",
+    "n_obs": 38,
+    "family": "BB7",
+    "spearman_rho": 0.8643353594730264,
+    "lambda_L": 0.8407125602814911,
+    "lambda_U": 0.802955427124066,
+    "tail_asymmetry": 0.03775713315742513
+  },
+  {
+    "benchmark_1": "GSM8K",
+    "benchmark_2": "TruthfulQA",
+    "n_obs": 32,
+    "family": "Clayton",
+    "spearman_rho": 0.6235908742165015,
+    "lambda_L": 0.6542771375667698,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6542771375667698
+  },
+  {
+    "benchmark_1": "GSM8K",
+    "benchmark_2": "AlpacaEval 2.0 (LC-winrate)",
+    "n_obs": 27,
+    "family": "BB7",
+    "spearman_rho": 0.7095100067398568,
+    "lambda_L": 0.7521749329835279,
+    "lambda_U": 0.6277008644524924,
+    "tail_asymmetry": 0.12447406853103549
+  },
+  {
+    "benchmark_1": "GSM8K",
+    "benchmark_2": "PopQA",
+    "n_obs": 27,
+    "family": "Gaussian",
+    "spearman_rho": 0.6970992366412212,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "GSM8K",
+    "benchmark_2": "Safety (OLMES suite)",
+    "n_obs": 26,
+    "family": "Joe",
+    "spearman_rho": 0.2668034928707744,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5109135416391637,
+    "tail_asymmetry": 0.5109135416391637
+  },
+  {
+    "benchmark_1": "Codeforces Rating",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 38,
+    "family": "Gaussian",
+    "spearman_rho": 0.683741047905734,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "Codeforces Rating",
+    "benchmark_2": "Arena-Hard Auto",
+    "n_obs": 30,
+    "family": "Gumbel",
+    "spearman_rho": 0.6474580082338309,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5506932024936582,
+    "tail_asymmetry": 0.5506932024936582
+  },
+  {
+    "benchmark_1": "Codeforces Rating",
+    "benchmark_2": "MMMLU",
+    "n_obs": 37,
+    "family": "Gaussian",
+    "spearman_rho": 0.5935981031416716,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "Codeforces Rating",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 27,
+    "family": "Joe",
+    "spearman_rho": 0.4811364039628532,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6302971501120664,
+    "tail_asymmetry": 0.6302971501120664
+  },
+  {
+    "benchmark_1": "Codeforces Rating",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 27,
+    "family": "Gumbel",
+    "spearman_rho": 0.5988700634787376,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5451608841954785,
+    "tail_asymmetry": 0.5451608841954785
+  },
+  {
+    "benchmark_1": "Codeforces Rating",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 34,
+    "family": "Clayton",
+    "spearman_rho": 0.7261750625685506,
+    "lambda_L": 0.718216445621917,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.718216445621917
+  },
+  {
+    "benchmark_1": "Codeforces Rating",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 27,
+    "family": "Clayton",
+    "spearman_rho": 0.5647992738677862,
+    "lambda_L": 0.6186372642856515,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6186372642856515
+  },
+  {
+    "benchmark_1": "Codeforces Rating",
+    "benchmark_2": "HLE Text",
+    "n_obs": 29,
+    "family": "Gaussian",
+    "spearman_rho": 0.46100776498677715,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "Codeforces Rating",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 25,
+    "family": "Joe",
+    "spearman_rho": 0.5790993071593534,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7022403268780986,
+    "tail_asymmetry": 0.7022403268780986
+  },
+  {
+    "benchmark_1": "Codeforces Rating",
+    "benchmark_2": "MT-AIME2024",
+    "n_obs": 27,
+    "family": "BB7",
+    "spearman_rho": 0.570948692545621,
+    "lambda_L": 0.6558710825064831,
+    "lambda_U": 0.5224675650404222,
+    "tail_asymmetry": 0.13340351746606083
+  },
+  {
+    "benchmark_1": "Codeforces Rating",
+    "benchmark_2": "MMLU-Redux",
+    "n_obs": 27,
+    "family": "Gumbel",
+    "spearman_rho": 0.6809160622768405,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6017656065067012,
+    "tail_asymmetry": 0.6017656065067012
+  },
+  {
+    "benchmark_1": "MMMU",
+    "benchmark_2": "HLE (Humanity's Last Exam)",
+    "n_obs": 29,
+    "family": "Gaussian",
+    "spearman_rho": 0.64654433392128,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMMU",
+    "benchmark_2": "MMMLU",
+    "n_obs": 28,
+    "family": "BB7",
+    "spearman_rho": 0.8096224709981107,
+    "lambda_L": 0.8654565132909138,
+    "lambda_U": 0.6896575016779667,
+    "tail_asymmetry": 0.1757990116129471
+  },
+  {
+    "benchmark_1": "MMMU",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 32,
+    "family": "Gumbel",
+    "spearman_rho": 0.766688445228365,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6507934702342584,
+    "tail_asymmetry": 0.6507934702342584
+  },
+  {
+    "benchmark_1": "MMMU",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 29,
+    "family": "Clayton",
+    "spearman_rho": 0.7189848957249599,
+    "lambda_L": 0.7517779004419264,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7517779004419264
+  },
+  {
+    "benchmark_1": "MMMU",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 28,
+    "family": "Gumbel",
+    "spearman_rho": 0.9348481051070949,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8589289190491916,
+    "tail_asymmetry": 0.8589289190491916
+  },
+  {
+    "benchmark_1": "MMMU",
+    "benchmark_2": "CharXiv Reasoning",
+    "n_obs": 27,
+    "family": "Joe",
+    "spearman_rho": 0.9200000428879466,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8839145915325846,
+    "tail_asymmetry": 0.8839145915325846
+  },
+  {
+    "benchmark_1": "MMMU",
+    "benchmark_2": "MathVista",
+    "n_obs": 26,
+    "family": "Gaussian",
+    "spearman_rho": 0.9415185229132641,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "MMMLU",
+    "n_obs": 30,
+    "family": "Clayton",
+    "spearman_rho": 0.8152361613785207,
+    "lambda_L": 0.8010605475272061,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.8010605475272061
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "Terminal-Bench 2.0",
+    "n_obs": 42,
+    "family": "Gumbel",
+    "spearman_rho": 0.8475565308651121,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6997530810547783,
+    "tail_asymmetry": 0.6997530810547783
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 35,
+    "family": "Gumbel",
+    "spearman_rho": 0.8368606781101865,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7329222233656503,
+    "tail_asymmetry": 0.7329222233656503
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "HMMT Feb 2025",
+    "n_obs": 33,
+    "family": "Frank",
+    "spearman_rho": 0.9308817416548433,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 35,
+    "family": "Gaussian",
+    "spearman_rho": 0.8798935521262522,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "HLE Text",
+    "n_obs": 43,
+    "family": "BB7",
+    "spearman_rho": 0.8926980291474743,
+    "lambda_L": 0.9005559935134664,
+    "lambda_U": 0.6985434470912701,
+    "tail_asymmetry": 0.20201254642219624
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 32,
+    "family": "Joe",
+    "spearman_rho": 0.742893869882932,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7632725688508051,
+    "tail_asymmetry": 0.7632725688508051
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "BrowseComp",
+    "n_obs": 35,
+    "family": "Gumbel",
+    "spearman_rho": 0.8749737361240297,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7877955302243422,
+    "tail_asymmetry": 0.7877955302243422
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "SWE-bench Pro",
+    "n_obs": 31,
+    "family": "Gaussian",
+    "spearman_rho": 0.5593545844868753,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "CharXiv Reasoning",
+    "n_obs": 26,
+    "family": "Gumbel",
+    "spearman_rho": 0.74816208992245,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6912610717065388,
+    "tail_asymmetry": 0.6912610717065388
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "Toolathlon",
+    "n_obs": 28,
+    "family": "Gumbel",
+    "spearman_rho": 0.7905257689572558,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7103274996790612,
+    "tail_asymmetry": 0.7103274996790612
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "FrontierMath",
+    "n_obs": 25,
+    "family": "Frank",
+    "spearman_rho": 0.7219549873886514,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "\u03c4\u00b2-bench Telecom",
+    "n_obs": 25,
+    "family": "Gaussian",
+    "spearman_rho": 0.7842159551394261,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "SWE-bench Multilingual",
+    "n_obs": 27,
+    "family": "Gumbel",
+    "spearman_rho": 0.8012831145184254,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7215539225450827,
+    "tail_asymmetry": 0.7215539225450827
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "HMMT Nov 2025",
+    "n_obs": 25,
+    "family": "Frank",
+    "spearman_rho": 0.7049654101903932,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "HLE (Humanity's Last Exam)",
+    "benchmark_2": "IMO-AnswerBench",
+    "n_obs": 25,
+    "family": "BB7",
+    "spearman_rho": 0.6602539438245479,
+    "lambda_L": 0.7091404388789442,
+    "lambda_U": 0.24316860296067877,
+    "tail_asymmetry": 0.4659718359182654
+  },
+  {
+    "benchmark_1": "Arena-Hard Auto",
+    "benchmark_2": "MMMLU",
+    "n_obs": 25,
+    "family": "Joe",
+    "spearman_rho": 0.4392307692307692,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6164988661320405,
+    "tail_asymmetry": 0.6164988661320405
+  },
+  {
+    "benchmark_1": "Arena-Hard Auto",
+    "benchmark_2": "MT-AIME2024",
+    "n_obs": 30,
+    "family": "Joe",
+    "spearman_rho": 0.4093033709212124,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5202904116836227,
+    "tail_asymmetry": 0.5202904116836227
+  },
+  {
+    "benchmark_1": "MMMLU",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 27,
+    "family": "Gaussian",
+    "spearman_rho": 0.8406734118330678,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMMLU",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 25,
+    "family": "Gumbel",
+    "spearman_rho": 0.8307041784579745,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7492038050807,
+    "tail_asymmetry": 0.7492038050807
+  },
+  {
+    "benchmark_1": "DROP",
+    "benchmark_2": "BigBench Hard (BBH)",
+    "n_obs": 33,
+    "family": "Gaussian",
+    "spearman_rho": 0.6624885123823688,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "DROP",
+    "benchmark_2": "TruthfulQA",
+    "n_obs": 28,
+    "family": "Joe",
+    "spearman_rho": 0.6694033935413245,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7338619924529772,
+    "tail_asymmetry": 0.7338619924529772
+  },
+  {
+    "benchmark_1": "DROP",
+    "benchmark_2": "AlpacaEval 2.0 (LC-winrate)",
+    "n_obs": 28,
+    "family": "Gumbel",
+    "spearman_rho": 0.7400109469074986,
+    "lambda_L": 0.0,
+    "lambda_U": 0.6490829516559946,
+    "tail_asymmetry": 0.6490829516559946
+  },
+  {
+    "benchmark_1": "DROP",
+    "benchmark_2": "PopQA",
+    "n_obs": 27,
+    "family": "Frank",
+    "spearman_rho": 0.877728601281019,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "DROP",
+    "benchmark_2": "Safety (OLMES suite)",
+    "n_obs": 26,
+    "family": "Clayton",
+    "spearman_rho": 0.168604661022971,
+    "lambda_L": 0.1589243231359493,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.1589243231359493
+  },
+  {
+    "benchmark_1": "Terminal-Bench 2.0",
+    "benchmark_2": "ARC-AGI-2",
+    "n_obs": 27,
+    "family": "Joe",
+    "spearman_rho": 0.8721162107901553,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8637965838772759,
+    "tail_asymmetry": 0.8637965838772759
+  },
+  {
+    "benchmark_1": "Terminal-Bench 2.0",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 27,
+    "family": "Gumbel",
+    "spearman_rho": 0.841832100312668,
+    "lambda_L": 0.0,
+    "lambda_U": 0.732508892617521,
+    "tail_asymmetry": 0.732508892617521
+  },
+  {
+    "benchmark_1": "Terminal-Bench 2.0",
+    "benchmark_2": "HLE Text",
+    "n_obs": 34,
+    "family": "Gaussian",
+    "spearman_rho": 0.6954462183887794,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "Terminal-Bench 2.0",
+    "benchmark_2": "BrowseComp",
+    "n_obs": 33,
+    "family": "Gaussian",
+    "spearman_rho": 0.8290562596882763,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "Terminal-Bench 2.0",
+    "benchmark_2": "SWE-bench Pro",
+    "n_obs": 35,
+    "family": "Gaussian",
+    "spearman_rho": 0.843890142815173,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "Terminal-Bench 2.0",
+    "benchmark_2": "Toolathlon",
+    "n_obs": 29,
+    "family": "Student-t",
+    "spearman_rho": 0.8355928025634707,
+    "lambda_L": 0.7333281687715434,
+    "lambda_U": 0.7333281687715434,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "Terminal-Bench 2.0",
+    "benchmark_2": "SWE-bench Multilingual",
+    "n_obs": 26,
+    "family": "Gumbel",
+    "spearman_rho": 0.8434560563502838,
+    "lambda_L": 0.0,
+    "lambda_U": 0.728477080485316,
+    "tail_asymmetry": 0.728477080485316
+  },
+  {
+    "benchmark_1": "Terminal-Bench 2.0",
+    "benchmark_2": "IMO-AnswerBench",
+    "n_obs": 25,
+    "family": "Gumbel",
+    "spearman_rho": 0.549162988807892,
+    "lambda_L": 0.0,
+    "lambda_U": 0.5331698571550625,
+    "tail_asymmetry": 0.5331698571550625
+  },
+  {
+    "benchmark_1": "ARC-AGI-2",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 41,
+    "family": "Gumbel",
+    "spearman_rho": 0.9647454894970656,
+    "lambda_L": 0.0,
+    "lambda_U": 0.881404881834225,
+    "tail_asymmetry": 0.881404881834225
+  },
+  {
+    "benchmark_1": "ARC-AGI-2",
+    "benchmark_2": "HLE Text",
+    "n_obs": 26,
+    "family": "Clayton",
+    "spearman_rho": 0.8455618389443003,
+    "lambda_L": 0.8319705446846483,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.8319705446846483
+  },
+  {
+    "benchmark_1": "ARC-AGI-2",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 27,
+    "family": "Clayton",
+    "spearman_rho": 0.6189385319763755,
+    "lambda_L": 0.6897322412588,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6897322412588
+  },
+  {
+    "benchmark_1": "HMMT Feb 2025",
+    "benchmark_2": "ARC-AGI-1",
+    "n_obs": 25,
+    "family": "Joe",
+    "spearman_rho": 0.733602629458027,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8046854327003399,
+    "tail_asymmetry": 0.8046854327003399
+  },
+  {
+    "benchmark_1": "HMMT Feb 2025",
+    "benchmark_2": "HLE Text",
+    "n_obs": 26,
+    "family": "Clayton",
+    "spearman_rho": 0.7902205620707413,
+    "lambda_L": 0.7503286933800295,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7503286933800295
+  },
+  {
+    "benchmark_1": "ARC-AGI-1",
+    "benchmark_2": "HLE Text",
+    "n_obs": 26,
+    "family": "Joe",
+    "spearman_rho": 0.7611557642446865,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8010790245138388,
+    "tail_asymmetry": 0.8010790245138388
+  },
+  {
+    "benchmark_1": "ARC-AGI-1",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 25,
+    "family": "Joe",
+    "spearman_rho": 0.6960542203692107,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7810552321413271,
+    "tail_asymmetry": 0.7810552321413271
+  },
+  {
+    "benchmark_1": "HLE Text",
+    "benchmark_2": "MMMU-Pro",
+    "n_obs": 27,
+    "family": "Joe",
+    "spearman_rho": 0.5750077456047584,
+    "lambda_L": 0.0,
+    "lambda_U": 0.7120263336574812,
+    "tail_asymmetry": 0.7120263336574812
+  },
+  {
+    "benchmark_1": "HLE Text",
+    "benchmark_2": "BrowseComp",
+    "n_obs": 30,
+    "family": "Gaussian",
+    "spearman_rho": 0.7877169559412551,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "MMMU-Pro",
+    "benchmark_2": "CharXiv Reasoning",
+    "n_obs": 25,
+    "family": "Joe",
+    "spearman_rho": 0.7889978988035729,
+    "lambda_L": 0.0,
+    "lambda_U": 0.8343004689403364,
+    "tail_asymmetry": 0.8343004689403364
+  },
+  {
+    "benchmark_1": "BigBench Hard (BBH)",
+    "benchmark_2": "TruthfulQA",
+    "n_obs": 30,
+    "family": "Gaussian",
+    "spearman_rho": 0.7376502185292756,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "BigBench Hard (BBH)",
+    "benchmark_2": "AlpacaEval 2.0 (LC-winrate)",
+    "n_obs": 26,
+    "family": "Clayton",
+    "spearman_rho": 0.7039316239316238,
+    "lambda_L": 0.7452530172158254,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.7452530172158254
+  },
+  {
+    "benchmark_1": "BigBench Hard (BBH)",
+    "benchmark_2": "PopQA",
+    "n_obs": 27,
+    "family": "Gaussian",
+    "spearman_rho": 0.6525190839694656,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "BigBench Hard (BBH)",
+    "benchmark_2": "Safety (OLMES suite)",
+    "n_obs": 26,
+    "family": "Gaussian",
+    "spearman_rho": -0.0034199728402225355,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "BrowseComp",
+    "benchmark_2": "SWE-bench Pro",
+    "n_obs": 26,
+    "family": "Gaussian",
+    "spearman_rho": 0.7208626656125432,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "BrowseComp",
+    "benchmark_2": "Toolathlon",
+    "n_obs": 25,
+    "family": "Frank",
+    "spearman_rho": 0.8509041939207387,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "BrowseComp",
+    "benchmark_2": "SWE-bench Multilingual",
+    "n_obs": 25,
+    "family": "Gaussian",
+    "spearman_rho": 0.8820020719933991,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "TruthfulQA",
+    "benchmark_2": "AlpacaEval 2.0 (LC-winrate)",
+    "n_obs": 25,
+    "family": "Clayton",
+    "spearman_rho": 0.7446153846153846,
+    "lambda_L": 0.6692978950529302,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6692978950529302
+  },
+  {
+    "benchmark_1": "TruthfulQA",
+    "benchmark_2": "PopQA",
+    "n_obs": 27,
+    "family": "Clayton",
+    "spearman_rho": 0.6279957331600196,
+    "lambda_L": 0.6948821861832724,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6948821861832724
+  },
+  {
+    "benchmark_1": "TruthfulQA",
+    "benchmark_2": "Safety (OLMES suite)",
+    "n_obs": 25,
+    "family": "Frank",
+    "spearman_rho": 0.2777991740836765,
+    "lambda_L": 0.0,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.0
+  },
+  {
+    "benchmark_1": "AlpacaEval 2.0 (LC-winrate)",
+    "benchmark_2": "PopQA",
+    "n_obs": 25,
+    "family": "Clayton",
+    "spearman_rho": 0.7407692307692308,
+    "lambda_L": 0.6912702355238868,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.6912702355238868
+  },
+  {
+    "benchmark_1": "AlpacaEval 2.0 (LC-winrate)",
+    "benchmark_2": "Safety (OLMES suite)",
+    "n_obs": 26,
+    "family": "Joe",
+    "spearman_rho": 0.171340639295149,
+    "lambda_L": 0.0,
+    "lambda_U": 0.43200504206456847,
+    "tail_asymmetry": 0.43200504206456847
+  },
+  {
+    "benchmark_1": "PopQA",
+    "benchmark_2": "Safety (OLMES suite)",
+    "n_obs": 25,
+    "family": "Clayton",
+    "spearman_rho": 0.13774529684481468,
+    "lambda_L": 0.17470948295591235,
+    "lambda_U": 0.0,
+    "tail_asymmetry": 0.17470948295591235
+  }
+]
