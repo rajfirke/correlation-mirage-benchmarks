@@ -4,8 +4,6 @@
 
 Raj Firke (Red Hat) · Rajeswari Kannan (Pimpri Chinchwad College of Engineering)
 
-[📄 Paper](./The%20Correlation%20Mirage.pdf)
-
 ---
 
 ## Overview
